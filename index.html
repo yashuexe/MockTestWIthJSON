@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Mock Test - Personal</title>
+<style>
+*{box-sizing:border-box;font-family:system-ui,-apple-system,BlinkMacSystemFont}
+body{margin:0;min-height:100vh;display:flex;justify-content:center;align-items:center;background:linear-gradient(135deg,#6f7bd9,#8b5cf6)}
+.app{background:#fff;width:100%;max-width:760px;border-radius:18px;padding:20px 22px;box-shadow:0 15px 40px rgba(0,0,0,.25)}
+h1{text-align:center;margin:0 0 16px}
+.hidden{display:none}
+.row{display:flex;gap:10px;flex-wrap:wrap}
+.card{border:1px solid #e5e7eb;border-radius:14px;padding:16px;margin-top:14px}
+.btn{background:#6366f1;color:#fff;border:none;padding:12px 16px;border-radius:12px;font-size:16px;cursor:pointer;width:100%;margin-top:12px}
+.btn.secondary{background:#ef4444}
+.btn.outline{background:#fff;color:#4f46e5;border:1px solid #4f46e5}
+.btn:disabled{opacity:.6;cursor:not-allowed}
+input,select{padding:10px;border-radius:10px;border:1px solid #d1d5db;width:100%}
+
+/* OPTION UI */
+.option{
+  border:1px solid #d1d5db;
+  border-radius:12px;
+  padding:14px 16px;
+  margin:12px 0;
+  cursor:pointer;
+  display:grid;
+  grid-template-columns: 24px 1fr;
+  align-items:flex-start;
+  gap:12px;
+}
+
+.option input{
+  margin-top:4px;
+}
+
+.option span{
+  text-align:left;
+  line-height:1.5;
+}
+.option:hover{background:#eef2ff}
+.option.selected{border-color:#4f46e5;background:#eef2ff}
+.option.correct{background:#ecfdf5;border-color:#22c55e}
+.option.wrong{background:#fef2f2;border-color:#ef4444}
+.option input{margin:0}
+.option .label{font-weight:600;min-width:28px}
+
+.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.timer{font-weight:700;color:#4f46e5}
+.explanation{margin-top:8px;font-size:14px;color:#374151}
+.small{font-size:14px;color:#6b7280}
+</style>
+</head>
+<body>
+<div class="app">
+<h1>Mock Test - Personal</h1>
+
+<!-- SETUP -->
+<div id="setup">
+  <div class="card">
+    <label><b>Select JSON file(s)</b></label>
+    <input type="file" id="fileInput" multiple accept=".json" />
+
+    <div class="row" style="margin-top:10px">
+      <div>
+        <label>Number of Questions (optional)</label>
+        <input type="number" id="qCount" placeholder="Leave empty = all questions" />
+      </div>
+      <div>
+        <label>Test Duration in Minutes (optional)</label>
+        <input type="number" id="minutes" placeholder="Leave empty = no time limit" />
+      </div>
+    </div>
+
+    <div style="margin-top:10px">
+      <label>Show correct answer</label>
+      <select id="showMode">
+        <option value="report">Only in report</option>
+        <option value="instant">Immediately after selection</option>
+      </select>
+    </div>
+
+    <button class="btn" id="startBtn">Start Test</button>
+  </div>
+</div>
+
+<!-- QUIZ -->
+<div id="quiz" class="hidden">
+  <div class="topbar">
+    <div class="small" id="progress"></div>
+    <div class="timer" id="timer"></div>
+  </div>
+
+  <div class="card">
+    <div id="question"></div>
+    <div id="options"></div>
+    <button class="btn outline" id="nextBtn" disabled>Next</button>
+  </div>
+
+  <button class="btn secondary" id="endBtn">End Test</button>
+</div>
+
+<!-- REPORT -->
+<div id="report" class="hidden">
+  <div id="reportContent"></div>
+  <button class="btn outline" id="backBtn">Back to Home</button>
+</div>
+</div>
+
+<script>
+const LS_KEY = 'mock_test_personal_v1';
+
+let allQ=[],quizQ=[],index=0,answers={},timerInt=null,seconds=0,showMode='report';
+
+// ---------- RESUME CHECK ----------
+window.addEventListener('load',()=>{
+  const saved=localStorage.getItem(LS_KEY);
+  if(saved){
+    if(confirm('Resume previous test?')){
+      Object.assign({allQ,quizQ,index,answers,seconds,showMode},JSON.parse(saved));
+      document.getElementById('setup').classList.add('hidden');
+      document.getElementById('quiz').classList.remove('hidden');
+      if(seconds>0) startTimer();
+      renderQ();
+    } else localStorage.removeItem(LS_KEY);
+  }
+});
+
+function saveState(){
+  localStorage.setItem(LS_KEY,JSON.stringify({allQ,quizQ,index,answers,seconds,showMode}));
+}
+
+function startTest(){
+  const files=document.getElementById('fileInput').files;
+  if(!files.length){alert('Select JSON file');return;}
+
+  showMode=document.getElementById('showMode').value;
+  let qLimit=parseInt(document.getElementById('qCount').value);
+  let mins=parseInt(document.getElementById('minutes').value);
+
+  allQ=[];quizQ=[];answers={};index=0;
+
+  Promise.all([...files].map(f=>f.text()))
+  .then(texts=>{
+    texts.forEach(t=>{
+      let d=JSON.parse(t);
+      Array.isArray(d)?allQ.push(...d):allQ.push(d);
+    });
+
+    quizQ=[...allQ].sort(()=>Math.random()-0.5);
+    if(qLimit && qLimit<quizQ.length) quizQ=quizQ.slice(0,qLimit);
+
+    if(mins){seconds=mins*60;startTimer();}
+    else document.getElementById('timer').textContent='';
+
+    document.getElementById('setup').classList.add('hidden');
+    document.getElementById('quiz').classList.remove('hidden');
+    renderQ();
+  });
+}
+
+function startTimer(){
+  clearInterval(timerInt);
+  updateTimer();
+  timerInt=setInterval(()=>{
+    seconds--;updateTimer();saveState();
+    if(seconds<=0) endTest();
+  },1000);
+}
+function updateTimer(){
+  let m=Math.floor(seconds/60),s=seconds%60;
+  document.getElementById('timer').textContent=`${m}:${String(s).padStart(2,'0')}`;
+}
+
+function renderQ(){
+  saveState();
+  let q=quizQ[index];
+  document.getElementById('progress').textContent=`Question ${index+1} of ${quizQ.length}`;
+  document.getElementById('question').innerHTML=`<b>${q.question}</b>`;
+  let box=document.getElementById('options');box.innerHTML='';
+  document.getElementById('nextBtn').disabled=true;
+
+  Object.keys(q.options).forEach(k=>{
+    let d=document.createElement('div');
+    d.className='option';
+    d.innerHTML=`<input type="radio" name="opt"/> <span class="label">${k}.</span> <span>${q.options[k]}</span>`;
+    d.onclick=()=>selectOpt(k,d);
+    box.appendChild(d);
+  });
+}
+
+function selectOpt(k,div){
+  if(answers[index]) return;
+  answers[index]=k;saveState();
+  document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
+  div.classList.add('selected');
+  document.getElementById('nextBtn').disabled=false;
+
+  if(showMode==='instant'){
+    let q=quizQ[index];
+    document.querySelectorAll('.option').forEach(o=>{
+      let letter=o.querySelector('.label').textContent[0];
+      if(letter===q.correct_answer) o.classList.add('correct');
+      if(letter===k && k!==q.correct_answer) o.classList.add('wrong');
+    });
+  }
+}
+
+function nextQ(){index++;saveState();index<quizQ.length?renderQ():endTest();}
+
+function endTest(){
+  clearInterval(timerInt);
+  localStorage.removeItem(LS_KEY);
+  document.getElementById('quiz').classList.add('hidden');
+  let r=document.getElementById('report');r.classList.remove('hidden');
+
+  let attempted=Object.keys(answers).length,correct=0;
+  quizQ.forEach((q,i)=>{if(answers[i]===q.correct_answer) correct++;});
+
+  let html=`<h2>Report</h2><div class='small'>Total: ${quizQ.length} | Attempted: ${attempted} | Correct: ${correct}</div>`;
+
+  quizQ.forEach((q,i)=>{
+    let sel=answers[i],opts='';
+    Object.keys(q.options).forEach(k=>{
+      let cls='option',tag='';
+      if(k===q.correct_answer){cls+=' correct';tag=' (Correct)';}
+      if(k===sel && k!==q.correct_answer){cls+=' wrong';tag=' (Your choice)';}
+      if(k===sel && k===q.correct_answer){tag=' (Your choice)';}
+      opts+=`<div class="${cls}"><span class="label">${k}.</span> ${q.options[k]}${tag}</div>`;
+    });
+    html+=`<div class='card'><b>${q.question}</b>${opts}<div class='explanation'><b>Explanation:</b> ${q.explanation||''}</div></div>`;
+  });
+  document.getElementById('reportContent').innerHTML=html;
+}
+
+// events
+document.getElementById('startBtn').onclick=startTest;
+document.getElementById('endBtn').onclick=endTest;
+document.getElementById('nextBtn').onclick=nextQ;
+document.getElementById('backBtn').onclick=()=>location.reload();
+</script>
+</body>
+</html>
