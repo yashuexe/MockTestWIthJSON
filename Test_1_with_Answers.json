@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "\"Science education should enable the learner to know the facts and principles of Science and its applications, consistent with the stage of cognitive development.\" This aim of Science education guides that:",
+    "options": {
+      "A": "Objectives, curriculum, methods, assessments etc. should be different for different levels.",
+      "B": "Same teaching methods but different assessment techniques should be at different levels.",
+      "C": "Different teaching methods but same assessment techniques should be at different levels.",
+      "D": "Same content should be taught at all levels."
+    },
+    "correct_answer": "A",
+    "explanation": "The statement emphasizes aligning science education with the learner's cognitive development stage. Children at different ages understand and process information differently (as per theories like Piaget's stages of cognitive development). Hence, the objectives, curriculum, methods, and assessments should be designed according to the learner's developmental stage."
+  },
+  {
+    "id": 2,
+    "question": "While teaching, teacher states the rule and then presents examples to clarify the rule. The method followed by teacher in this situation is:",
+    "options": {
+      "A": "Problem solving",
+      "B": "Deductive",
+      "C": "Inquiry",
+      "D": "Inductive"
+    },
+    "correct_answer": "B",
+    "explanation": "In the deductive method, the teacher starts with a general rule or principle and then provides specific examples to explain or verify it. This is the opposite of the inductive method, where learners first observe examples and then derive the rule themselves."
+  },
+  {
+    "id": 3,
+    "question": "Field trips place primary emphasis on:",
+    "options": {
+      "A": "Science as a process of inquiry",
+      "B": "Scientific theories",
+      "C": "Scientific laws",
+      "D": "Science as a product"
+    },
+    "correct_answer": "A",
+    "explanation": "Field trips involve observing, exploring, asking questions, collecting data, and drawing conclusions based on real-world experiences[cite: 968]. This hands-on approach emphasizes how science works—through inquiry, investigation, and exploration—rather than just learning about established theories or laws[cite: 969]."
+  },
+  {
+    "id": 4,
+    "question": "According to Bloom's taxonomy of educational objectives, the hierarchical order of categories of cognitive domain is:",
+    "options": {
+      "A": "Knowledge-Comprehension-Application-Analysis-Synthesis-Evaluation",
+      "B": "Knowledge-Comprehension-Application-Synthesis-Analysis-Evaluation",
+      "C": "Comprehension-Knowledge-Application-Synthesis-Analysis-Evaluation",
+      "D": "Comprehension-Application-Knowledge-Synthesis-Analysis-Evaluation"
+    },
+    "correct_answer": "A",
+    "explanation": "According to Bloom's Taxonomy (1956), the hierarchical order is: 1. Knowledge (Recall) 2. Comprehension (Understanding) 3. Application (Using knowledge) 4. Analysis (Breaking down) 5. Synthesis (Creating/Compiling) 6. Evaluation (Judging)[cite: 978, 979, 980]."
+  },
+  {
+    "id": 5,
+    "question": "Which one of the following is a limitation of inquiry approach?",
+    "options": {
+      "A": "This learning takes more time than receptive learning.",
+      "B": "It minimizes verbal learning.",
+      "C": "It is based on intrinsic motivation.",
+      "D": "In this the instruction become student centered rather than teacher centered."
+    },
+    "correct_answer": "A",
+    "explanation": "A key limitation of the inquiry approach is that it often takes more time than receptive learning (where the teacher directly presents facts). While it enhances deep understanding, the time-consuming nature is a drawback in practical classroom settings[cite: 994, 995]."
+  },
+  {
+    "id": 6,
+    "question": "As per the Freud's types of personality, a person who shows self love, exhibitionism and tries to draw attention of others, comes under the following type of personality:",
+    "options": {
+      "A": "The anal type",
+      "B": "The Phallic type",
+      "C": "The Oral Sadistic type",
+      "D": "The Oral Passive type"
+    },
+    "correct_answer": "B",
+    "explanation": "According to Freud, the Phallic type personality (associated with the Phallic stage, ages 3-6) is characterized by self-love (narcissism), exhibitionism, and attention-seeking behavior[cite: 1004, 1005, 1006]."
+  },
+  {
+    "id": 7,
+    "question": "'Sarva Shiksha Abhiyan' was commenced in India in:",
+    "options": {
+      "A": "2001",
+      "B": "2000",
+      "C": "2002",
+      "D": "2004"
+    },
+    "correct_answer": "A",
+    "explanation": "Sarva Shiksha Abhiyan (SSA), meaning 'Education for All', was launched in 2001 by the Government of India to provide universal elementary education to children aged 6 to 14 years[cite: 1024, 1025]."
+  },
+  {
+    "id": 8,
+    "question": "The concept of teaching aids is based on which of the following psychological principles? (A) Active participation of the learner (B) Activating sensory organs of the learner (C) Teacher centeredness (D) Providing concrete and direct-experiences",
+    "options": {
+      "A": "(B), (C) and (D)",
+      "B": "(A), (B) and (C)",
+      "C": "(A), (C) and (D)",
+      "D": "(A), (B) and (D)"
+    },
+    "correct_answer": "D",
+    "explanation": "Teaching aids are based on active participation (A), activating sensory organs (B), and providing concrete experiences (D). Teacher centeredness (C) is not a principle of teaching aids; rather, aids help shift focus to the learner[cite: 1043, 1045, 1046, 1048]."
+  },
+  {
+    "id": 9,
+    "question": "In Erickson's Theory of Psycho-social development, the stage of Industry vs. Inferiority belongs to which one of the following developmental stage?",
+    "options": {
+      "A": "Early adulthood stage",
+      "B": "Adolescence stage",
+      "C": "Late childhood stage",
+      "D": "Early childhood stage"
+    },
+    "correct_answer": "C",
+    "explanation": "Industry vs. Inferiority is the 4th stage in Erikson's theory, occurring during school-age years (late childhood, approx. 6-12 years), focusing on learning, productivity, and competence[cite: 1059, 1060]."
+  },
+  {
+    "id": 10,
+    "question": "Below given some of the Implication of Educational Psychology for teacher: (a) Understanding developmental characteristics of children. (b) Understanding dynamics of children group. (c) Understanding effective methods of teaching. Select the most appropriate option:",
+    "options": {
+      "A": "(a), (b) and (c) are correct.",
+      "B": "Only (a) is correct.",
+      "C": "Only (b) is correct.",
+      "D": "Only (a) and (c) are correct."
+    },
+    "correct_answer": "A",
+    "explanation": "Educational psychology helps teachers in all three areas: understanding developmental characteristics to plan age-appropriate lessons, understanding group dynamics to manage behavior, and understanding effective teaching methods/learning theories[cite: 1080, 1082, 1084]."
+  },
+  {
+    "id": 11,
+    "question": "Which one of the following statement is incorrect regarding to the learning?",
+    "options": {
+      "A": "Permanent behaviour changes",
+      "B": "Changes in behaviour because of practice.",
+      "C": "Changes in behaviour due to maturity.",
+      "D": "Acquisition of new behaviour"
+    },
+    "correct_answer": "C",
+    "explanation": "Learning is a relatively permanent change in behavior resulting from experience or practice. Changes due to maturity (biological growth) are NOT considered learning[cite: 1095, 1101]."
+  },
+  {
+    "id": 12,
+    "question": "'It is the dynamic organisation within the individual of those psycho-physical systems that determine his unique adjustment to his environment.' This statement belongs to which one of the following psychological trait?",
+    "options": {
+      "A": "Creativity",
+      "B": "Intelligence",
+      "C": "Personality",
+      "D": "Interest"
+    },
+    "correct_answer": "C",
+    "explanation": "This definition was given by Gordon W. Allport and it defines Personality. It emphasizes the dynamic organization of psychological and physical systems that determine unique adjustment[cite: 1115, 1113]."
+  },
+  {
+    "id": 13,
+    "question": "Which one of the following is not an accepted stage of Kohlberg's Theory of Moral development?",
+    "options": {
+      "A": "Universal Ethical Principle Orientation",
+      "B": "Role Confusion Orientation",
+      "C": "Social Contract Legalistic Orientation",
+      "D": "Punishment & Obedience Orientation"
+    },
+    "correct_answer": "B",
+    "explanation": "'Role Confusion' is not part of Kohlberg's moral stages; it is a term from Erik Erikson's psychosocial theory (Identity vs. Role Confusion). Kohlberg's stages include Punishment & Obedience, Social Contract, and Universal Ethical Principles[cite: 1137, 1139, 1141]."
+  },
+  {
+    "id": 14,
+    "question": "Which one of the following is not an element of creativity?",
+    "options": {
+      "A": "Elaboration",
+      "B": "Fluency",
+      "C": "Originality",
+      "D": "Convergent Thinking"
+    },
+    "correct_answer": "D",
+    "explanation": "Creativity is associated with Divergent Thinking. Its elements include Fluency, Originality, and Elaboration. Convergent thinking focuses on finding a single correct answer and is not a primary element of creativity[cite: 1149, 1146]."
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following is not the characteristics of well-adjusted person?",
+    "options": {
+      "A": "Flexibility in behaviour.",
+      "B": "Awareness of his own strengths and limitations.",
+      "C": "Respecting himself and others.",
+      "D": "Very high level of aspiration"
+    },
+    "correct_answer": "D",
+    "explanation": "A well-adjusted person sets realistic goals. A 'Very high level of aspiration' (unrealistic ambition) can lead to frustration and is not a characteristic of adjustment. Well-adjusted people show flexibility, self-awareness, and respect[cite: 1166, 1167]."
+  },
+  {
+    "id": 16,
+    "question": "The process of imbibing one's own culture in one's personality is termed as",
+    "options": {
+      "A": "Enculturation",
+      "B": "Acculturation",
+      "C": "Socialization",
+      "D": "Sanskritization"
+    },
+    "correct_answer": "A",
+    "explanation": "Enculturation is the process of learning and internalizing the norms and values of one's own culture. Acculturation refers to adopting aspects of a different culture[cite: 1177, 1178, 1179]."
+  },
+  {
+    "id": 17,
+    "question": "Critically judge the following: Assertion (A): My religion is the best religion. Reason (R): The democratic philosophy allows me to think and live with freedom.",
+    "options": {
+      "A": "Both (A) and (R) are true and (R) is the correct explanation.",
+      "B": "Both (A) and (R) are false.",
+      "C": "Only (A) is true, but (R) is false.",
+      "D": "Only (R) is true."
+    },
+    "correct_answer": "D",
+    "explanation": "Assertion (A) is subjective and reflects bias/intolerance, which contradicts secular democratic values. Reason (R) is true as democracy upholds freedom of thought and belief[cite: 1196, 1199, 1200]."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following chains represents the change processes underlying educational system of Free India?",
+    "options": {
+      "A": "Psychological change - Social change - Political change - Educational change.",
+      "B": "Political change - Social change - Psychological change - Educational change.",
+      "C": "Social change - Psychological change - Political change - Educational change.",
+      "D": "Educational change - Social change - Psychological change."
+    },
+    "correct_answer": "B",
+    "explanation": "The sequence was: Political Change (Independence/Democracy) -> Social Change (Justice/Equality) -> Psychological Change (Change in attitudes/values) -> Educational Change (System restructuring)[cite: 1208, 1210, 1214, 1216, 1218]."
+  },
+  {
+    "id": 19,
+    "question": "Introspection method lacks in:",
+    "options": {
+      "A": "Reliability",
+      "B": "Validity",
+      "C": "Objectivity",
+      "D": "All the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Introspection (examining one's own thoughts) is subjective, leading to a lack of Objectivity. It is also difficult to verify (Validity) and varies between individuals/times (Reliability)[cite: 1230, 1231, 1232, 1233]."
+  },
+  {
+    "id": 20,
+    "question": "Re-arrange the following steps of social learning theory as given by Bandura: a. Remembering the behaviour. b. Converting the memory into action. c. Reinforcement of the imitated behaviour. d. Attending to and perceiving the behaviour.",
+    "options": {
+      "A": "a, b, d, c",
+      "B": "d, a, b, c",
+      "C": "d, a, c, b",
+      "D": "a, d, b, c"
+    },
+    "correct_answer": "B",
+    "explanation": "Bandura's steps are: 1. Attention (d) 2. Retention (a) 3. Reproduction (b) 4. Motivation/Reinforcement (c)[cite: 1251, 1253, 1257, 1259]."
+  },
+  {
+    "id": 21,
+    "question": "A quantity has dimensions [M⁰L⁰T⁰]. It must be:",
+    "options": {
+      "A": "A physical constant",
+      "B": "A derived quantity",
+      "C": "A dimensionless quantity",
+      "D": "A fundamental quantity"
+    },
+    "correct_answer": "C",
+    "explanation": "Any quantity with zero dimensions (exponents of M, L, T are 0) is a dimensionless quantity[cite: 1267]."
+  },
+  {
+    "id": 22,
+    "question": "If force is proportional to velocity squared, what are the dimensions of the constant of proportionality?",
+    "options": {
+      "A": "[MLT⁻³]",
+      "B": "[ML⁻¹]",
+      "C": "[M]",
+      "D": "[MLT]"
+    },
+    "correct_answer": "B",
+    "explanation": "F = kv². k = F/v² = [MLT⁻²] / [LT⁻¹]² = [MLT⁻²] / [L²T⁻²] = [ML⁻¹][cite: 1275]."
+  },
+  {
+    "id": 23,
+    "question": "Dimensional analysis fails to:",
+    "options": {
+      "A": "Check the correctness of equations",
+      "B": "Derive equations with dimensionless constants",
+      "C": "Find units of a quantity",
+      "D": "Compare two different quantities"
+    },
+    "correct_answer": "B",
+    "explanation": "Dimensional analysis cannot determine numerical dimensionless constants (like 1/2, π, etc.) in a physical equation[cite: 1283]."
+  },
+  {
+    "id": 24,
+    "question": "A particle starts from rest and moves with constant acceleration. Which of the following graphs represents the velocity-time relation correctly?",
+    "options": {
+      "A": "A straight line passing through origin",
+      "B": "A parabola",
+      "C": "A horizontal line",
+      "D": "A curve passing through origin"
+    },
+    "correct_answer": "A",
+    "explanation": "For constant acceleration starting from rest, v = at. This represents a linear relationship, so the graph is a straight line passing through the origin[cite: 1292]."
+  },
+  {
+    "id": 25,
+    "question": "Which of these statements is correct about a body thrown vertically upwards?",
+    "options": {
+      "A": "Acceleration is zero at the topmost point",
+      "B": "Velocity is zero and acceleration is downward at the topmost point",
+      "C": "Both velocity and acceleration are zero at the top",
+      "D": "The body has upward acceleration"
+    },
+    "correct_answer": "B",
+    "explanation": "At the topmost point of the flight, the velocity is instantaneously zero, but the acceleration due to gravity (g) still acts downwards[cite: 1299]."
+  },
+  {
+    "id": 26,
+    "question": "In projectile motion, the horizontal component of velocity:",
+    "options": {
+      "A": "Changes due to gravity",
+      "B": "Remains constant",
+      "C": "Increases continuously",
+      "D": "Decreases continuously"
+    },
+    "correct_answer": "B",
+    "explanation": "In projectile motion, there is no acceleration in the horizontal direction (ignoring air resistance), so the horizontal component of velocity remains constant[cite: 1307]."
+  },
+  {
+    "id": 27,
+    "question": "At the highest point of projectile motion, the velocity is:",
+    "options": {
+      "A": "Zero",
+      "B": "Maximum",
+      "C": "Horizontal",
+      "D": "Vertical"
+    },
+    "correct_answer": "C",
+    "explanation": "At the maximum height, the vertical component of velocity becomes zero, so the total velocity is purely horizontal[cite: 1314]."
+  },
+  {
+    "id": 28,
+    "question": "A block rests on an inclined plane. As the angle increases, it just starts sliding at 30°. The coefficient of static friction is:",
+    "options": {
+      "A": "0.5",
+      "B": "0.58",
+      "C": "0.62",
+      "D": "0.70"
+    },
+    "correct_answer": "B",
+    "explanation": "The coefficient of static friction μ = tan(θ). μ = tan(30°) ≈ 0.577 ≈ 0.58[cite: 1321]."
+  },
+  {
+    "id": 29,
+    "question": "A man stands on a weighing machine in a lift which is moving downward with acceleration g. The reading on the machine will be:",
+    "options": {
+      "A": "Zero",
+      "B": "Equal to man's weight",
+      "C": "More than the actual weight",
+      "D": "Half the weight"
+    },
+    "correct_answer": "A",
+    "explanation": "When the lift accelerates downward with a = g (free fall), the apparent weight R = m(g - a) = m(g - g) = 0. The reading is zero[cite: 1330]."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is an example of pseudo force?",
+    "options": {
+      "A": "Tension",
+      "B": "Gravity",
+      "C": "Friction",
+      "D": "Force felt in an accelerating elevator"
+    },
+    "correct_answer": "D",
+    "explanation": "Pseudo forces (fictitious forces) appear when observing from a non-inertial (accelerating) reference frame, such as the force felt in an accelerating elevator[cite: 1339]."
+  },
+  {
+    "id": 31,
+    "question": "The work done by a person in lifting a box is maximum when:",
+    "options": {
+      "A": "The box is pushed horizontally",
+      "B": "The box is lifted vertically upward",
+      "C": "The box is moved on a smooth surface",
+      "D": "No work is done"
+    },
+    "correct_answer": "B",
+    "explanation": "Work = Force × Displacement × cos(θ). When lifting vertically, force (against gravity) and displacement are in the same direction (θ=0), and the force required is equal to the weight, maximizing work done against gravity compared to horizontal pushing where friction might be less[cite: 1346]."
+  },
+  {
+    "id": 32,
+    "question": "A force is said to be conservative if:",
+    "options": {
+      "A": "It dissipates energy",
+      "B": "Work done depends only on initial and final positions",
+      "C": "Work done depends on the path",
+      "D": "It is variable only"
+    },
+    "correct_answer": "B",
+    "explanation": "A conservative force is one where the work done moving a particle between two points is independent of the path taken[cite: 1353]."
+  },
+  {
+    "id": 33,
+    "question": "In a collision between two particles, which condition ensures that the centre of mass remains stationary?",
+    "options": {
+      "A": "Equal masses",
+      "B": "Equal speeds",
+      "C": "Total external force is zero",
+      "D": "Total kinetic energy is conserved"
+    },
+    "correct_answer": "C",
+    "explanation": "The motion of the center of mass is determined by external forces. If the total external force is zero, the center of mass remains stationary (or moves with constant velocity)[cite: 1360]."
+  },
+  {
+    "id": 34,
+    "question": "For a uniform disc rolling without slipping, what is the ratio of rotational KE to total KE?",
+    "options": {
+      "A": "1:2",
+      "B": "1:1",
+      "C": "2:3",
+      "D": "1:3"
+    },
+    "correct_answer": "D",
+    "explanation": "Translational KE = (1/2)mv². Rotational KE = (1/2)Iω². For a disc, I = (1/2)mR². With pure rolling (v=Rω), Rotational KE = (1/4)mv². Total KE = (3/4)mv². Ratio = (1/4) / (3/4) = 1:3[cite: 1367]."
+  },
+  {
+    "id": 35,
+    "question": "A body of mass m and radius R is rolling without slipping. Which point has zero velocity at an instant?",
+    "options": {
+      "A": "Topmost point",
+      "B": "Centre",
+      "C": "Point of contact with ground",
+      "D": "Midpoint between top and centre"
+    },
+    "correct_answer": "C",
+    "explanation": "In pure rolling motion, the point of contact with the ground is momentarily at rest (zero velocity) relative to the ground[cite: 1374]."
+  },
+  {
+    "id": 36,
+    "question": "A satellite is orbiting the Earth in a circular orbit of radius R. If the orbital radius is doubled, the time period becomes:",
+    "options": {
+      "A": "Square root of 2 times",
+      "B": "2 times",
+      "C": "2 times square root of 2 times",
+      "D": "4 times"
+    },
+    "correct_answer": "C",
+    "explanation": "According to Kepler's Third Law, T² ∝ R³. Therefore, T ∝ R^(3/2). If R becomes 2R, T becomes 2^(3/2) T = 2√2 T[cite: 1383]."
+  },
+  {
+    "id": 37,
+    "question": "The gravitational potential energy of a system of two masses m and M separated by distance r is given by:",
+    "options": {
+      "A": "GMm/r",
+      "B": "-GMm/r",
+      "C": "GMm/r²",
+      "D": "-GMm/r²"
+    },
+    "correct_answer": "B",
+    "explanation": "Gravitational potential energy is always negative (attractive force) and is given by the formula U = -GMm/r[cite: 1390]."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following materials obeys Hooke's law over the largest strain range?",
+    "options": {
+      "A": "Steel",
+      "B": "Copper",
+      "C": "Brass",
+      "D": "Rubber"
+    },
+    "correct_answer": "A",
+    "explanation": "Steel behaves as an elastic material and obeys Hooke's law over a wider range of strain compared to materials like copper or brass, and definitely more than rubber (which is an elastomer)[cite: 1397]."
+  },
+  {
+    "id": 39,
+    "question": "What is the Poisson's ratio of a material with zero lateral strain?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinite",
+      "C": "One",
+      "D": "Not defined"
+    },
+    "correct_answer": "A",
+    "explanation": "Poisson's ratio = Lateral Strain / Longitudinal Strain. If lateral strain is zero, the ratio is zero[cite: 1403]."
+  },
+  {
+    "id": 40,
+    "question": "A U-tube contains two different fluids in equilibrium. The pressure at the bottom of the tube:",
+    "options": {
+      "A": "Depends on the denser fluid only",
+      "B": "Is the same from both sides",
+      "C": "Is higher on the lighter side",
+      "D": "Is unequal from both sides"
+    },
+    "correct_answer": "B",
+    "explanation": "At equilibrium, the pressure at the same horizontal level in a connected fluid system is equal. Therefore, pressure at the bottom is the same from both limbs[cite: 1414]."
+  },
+  {
+    "id": 41,
+    "question": "The pressure difference across a soap bubble of radius r is:",
+    "options": {
+      "A": "S/r",
+      "B": "2S/r",
+      "C": "3S/r",
+      "D": "4S/r"
+    },
+    "correct_answer": "D",
+    "explanation": "A soap bubble has two surfaces (inner and outer). The excess pressure is given by 4S/r (where S is surface tension)[cite: 1422]."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a correct relation between Celsius and Fahrenheit temperature scales?",
+    "options": {
+      "A": "F = (9/5)C + 32",
+      "B": "F = (5/9)C + 32",
+      "C": "F = (9/5)C - 32",
+      "D": "F = (5/9)C - 32"
+    },
+    "correct_answer": "A",
+    "explanation": "The standard conversion formula is F = (9/5)C + 32[cite: 1430]."
+  },
+  {
+    "id": 43,
+    "question": "Body cools from 80°C to 70°C in 5 minutes. How long will it take to cool from 70°C to 60°C under same conditions?",
+    "options": {
+      "A": "Less than 5 minutes",
+      "B": "5 minutes",
+      "C": "More than 5 minutes",
+      "D": "Cannot be determined"
+    },
+    "correct_answer": "C",
+    "explanation": "According to Newton's Law of Cooling, the rate of cooling is proportional to the temperature difference between the body and surroundings. As the body cools, this difference decreases, so the rate of cooling slows down. Thus, it takes more time[cite: 1438]."
+  },
+  {
+    "id": 44,
+    "question": "A Carnot engine absorbs 500 J heat from a source at 600 K and rejects heat to a sink at 300 K. The work done is:",
+    "options": {
+      "A": "250 J",
+      "B": "300 J",
+      "C": "400 J",
+      "D": "200 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Efficiency η = 1 - (T_sink/T_source) = 1 - (300/600) = 0.5. Work = Efficiency × Heat Absorbed = 0.5 × 500 J = 250 J[cite: 1445]."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following molecules would have the highest rms speed at the same temperature?",
+    "options": {
+      "A": "O2",
+      "B": "N2",
+      "C": "H2",
+      "D": "CO2"
+    },
+    "correct_answer": "C",
+    "explanation": "RMS speed v_rms = √(3RT/M). Lighter molecules (lower Molar mass M) have higher speeds. Hydrogen (H2) has the lowest molar mass[cite: 1456]."
+  },
+  {
+    "id": 46,
+    "question": "A particle is in SHM with amplitude A. Its maximum speed is:",
+    "options": {
+      "A": "Aω",
+      "B": "ω/A",
+      "C": "A/ω",
+      "D": "2Aω"
+    },
+    "correct_answer": "A",
+    "explanation": "In Simple Harmonic Motion (SHM), maximum speed occurs at the mean position and is given by v_max = Aω[cite: 1463]."
+  },
+  {
+    "id": 47,
+    "question": "In a string fixed at both ends, the second harmonic has how many antinodes?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "explanation": "The fundamental (1st harmonic) has 1 antinode. The second harmonic has 2 loops, and therefore 2 antinodes[cite: 1471]."
+  },
+  {
+    "id": 48,
+    "question": "The SI unit of electric flux is:",
+    "options": {
+      "A": "V C^-1 m^-2",
+      "B": "N C m^-2",
+      "C": "N C^-2 m^2",
+      "D": "N C^-1 m^2"
+    },
+    "correct_answer": "D",
+    "explanation": "Electric flux Φ = E · A. Unit of E is N/C. Unit of A is m². So unit of flux is N m²/C or N C⁻¹ m²[cite: 1487]."
+  },
+  {
+    "id": 49,
+    "question": "A hollow metal sphere of radius 5 cm is charged such that the potential on its surface is 10 volt. The potential at the center of the sphere is:",
+    "options": {
+      "A": "zero",
+      "B": "10 volt",
+      "C": "same as at a point 5 cm away from the surface",
+      "D": "same as at a point 25 cm away from the surface"
+    },
+    "correct_answer": "B",
+    "explanation": "Inside a hollow conducting sphere, the potential is constant and equal to the potential on the surface. Thus, it is 10 V at the center[cite: 1497]."
+  },
+  {
+    "id": 50,
+    "question": "In a parallel-plate capacitor of capacitance C, a metal sheet is inserted between the plates, parallel to them. The thickness of the sheet is half of the separation between the plates. The capacitance now becomes:",
+    "options": {
+      "A": "4C",
+      "B": "2C",
+      "C": "C/2",
+      "D": "C/4"
+    },
+    "correct_answer": "B",
+    "explanation": "Inserting a metal slab of thickness t=d/2 effectively creates two capacitors in series, each with separation d/4 (assuming symmetry or just calculating equivalent air gap d' = d-t = d/2). C_new = εA / (d-t) = εA / (d/2) = 2(εA/d) = 2C[cite: 1514]."
+  },
+  {
+    "id": 51,
+    "question": "A car has a fresh battery of e.m.f. 12 V and internal resistance of 0.05 Ohm. If the starter motor draws a current of 90 A, the terminal voltage when the starter is on will be:",
+    "options": {
+      "A": "12 V",
+      "B": "10.5 V",
+      "C": "8.5 V",
+      "D": "7.5 V"
+    },
+    "correct_answer": "D",
+    "explanation": "Terminal voltage V = E - Ir. V = 12 - (90 × 0.05) = 12 - 4.5 = 7.5 V[cite: 1524]."
+  },
+  {
+    "id": 52,
+    "question": "The magnetic moment of a current I carrying circular coil of radius r and number of turns N varies as:",
+    "options": {
+      "A": "1/r^2",
+      "B": "1/r",
+      "C": "r",
+      "D": "r^2"
+    },
+    "correct_answer": "D",
+    "explanation": "Magnetic moment μ = NIA = NI(πr²). Thus, μ is proportional to r²[cite: 1535]."
+  },
+  {
+    "id": 53,
+    "question": "Which of the following independent quantities is not used to specify the earth's magnetic field?",
+    "options": {
+      "A": "Magnetic declination",
+      "B": "Magnetic dip",
+      "C": "Horizontal component of earth's field (BH)",
+      "D": "Vertical component of earth's field (BV)"
+    },
+    "correct_answer": "D",
+    "explanation": "The Earth's magnetic field is specified by three independent elements: Declination, Dip (Inclination), and Horizontal Component (BH). The Vertical Component (BV) is derived from BH and Dip, so it is not considered one of the primary independent elements for specification[cite: 1544]."
+  },
+  {
+    "id": 54,
+    "question": "Two identical coaxial coils P and Q carrying equal amount of current in the same direction are brought nearer. The current in:",
+    "options": {
+      "A": "P increases while in Q decreases",
+      "B": "Q increases while in P decreases",
+      "C": "both P and Q increases",
+      "D": "both P and Q decreases"
+    },
+    "correct_answer": "D",
+    "explanation": "By Lenz's Law, bringing the coils closer increases the flux linkage. The induced EMF will oppose this change, effectively opposing the original current in both coils. Thus, current decreases in both[cite: 1559]."
+  },
+  {
+    "id": 55,
+    "question": "In the case of an inductor:",
+    "options": {
+      "A": "voltage lags the current by pi/2",
+      "B": "voltage leads the current by pi/2",
+      "C": "voltage leads the current by pi/3",
+      "D": "voltage leads the current by pi/4"
+    },
+    "correct_answer": "B",
+    "explanation": "In a pure inductor, the voltage leads the current by a phase angle of 90 degrees (π/2 radians)[cite: 1571]."
+  },
+  {
+    "id": 56,
+    "question": "If a variable frequency ac source is connected to a capacitor, then with decrease in frequency the displacement current will:",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "remains constant",
+      "D": "first decrease then increase"
+    },
+    "correct_answer": "B",
+    "explanation": "Displacement current depends on the rate of change of electric flux, which relates to frequency (ω). I_d ∝ ω. As frequency decreases, displacement current decreases[cite: 1584, 1585]."
+  },
+  {
+    "id": 57,
+    "question": "An astronomical refractive telescope has an objective of focal length 20 m and an eyepiece of focal length 2 cm. Then:",
+    "options": {
+      "A": "the magnification is 1000",
+      "B": "the length of the telescope tube is 20.02 m",
+      "C": "the image formed of inverted",
+      "D": "all of these"
+    },
+    "correct_answer": "D",
+    "explanation": "Magnification M = fo/fe = 20/0.02 = 1000. Tube length L = fo + fe = 20 + 0.02 = 20.02 m. Image is real and inverted. All options are correct[cite: 1598, 1601, 1602]."
+  },
+  {
+    "id": 58,
+    "question": "Two slits in Young's double slit experiment have widths in the ratio 81:1. The ratio of the amplitudes of light waves is:",
+    "options": {
+      "A": "3:1",
+      "B": "3:2",
+      "C": "9:1",
+      "D": "6:1"
+    },
+    "correct_answer": "C",
+    "explanation": "Intensity I is proportional to slit width w. Amplitude A is proportional to √I, so A ∝ √w. Ratio of amplitudes = √(81/1) = 9:1[cite: 1616]."
+  },
+  {
+    "id": 59,
+    "question": "The de-Broglie wavelength of an electron moving with a speed of 6.6 x 10^5 m/s is nearly equal to:",
+    "options": {
+      "A": "10^-11 m",
+      "B": "10^-9 m",
+      "C": "10^-7 m",
+      "D": "10^-5 m"
+    },
+    "correct_answer": "B",
+    "explanation": "λ = h / (mv). Using h ≈ 6.6e-34, m ≈ 9.1e-31, v = 6.6e5. λ ≈ (6.6e-34) / (9.1e-31 * 6.6e5) ≈ 1.1e-9 m. Answer is order of 10^-9 m[cite: 1635]."
+  },
+  {
+    "id": 60,
+    "question": "The ionisation potential of hydrogen is 13.6 V. The energy of the atom in n = 2 state will be:",
+    "options": {
+      "A": "-10.2 eV",
+      "B": "-6.4 eV",
+      "C": "-3.4 eV",
+      "D": "-4.4 eV"
+    },
+    "correct_answer": "C",
+    "explanation": "Energy level En = -13.6 / n² eV. For n=2, E2 = -13.6 / 4 = -3.4 eV[cite: 1646]."
+  },
+  {
+    "id": 61,
+    "question": "Solution of the differential equation dy/dx + y/x = sin(x) is:",
+    "options": {
+      "A": "x(y + cos x) = sin x + C",
+      "B": "x(y - cos x) = sin x + C",
+      "C": "x(y + cos x) = cos x + C",
+      "D": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Integrating Factor (IF) = e^(∫1/x dx) = x. Equation becomes d(xy)/dx = x sin(x). Integrating x sin(x) by parts gives -x cos(x) + sin(x). So xy = -x cos(x) + sin(x) + C, which rearranges to x(y + cos x) = sin x + C[cite: 1656, 1660]."
+  },
+  {
+    "id": 62,
+    "question": "The probability that a leap year will have 53 Friday 53 Saturdays is:",
+    "options": {
+      "A": "2/7",
+      "B": "3/7",
+      "C": "4/7",
+      "D": "1/7"
+    },
+    "correct_answer": "D",
+    "explanation": "A leap year has 366 days (52 weeks + 2 days). The 2 extra days can be (Mon,Tue), (Tue,Wed), ..., (Fri,Sat), (Sat,Sun), (Sun,Mon) - 7 combinations. Only (Fri, Sat) satisfies the condition of having both Friday and Saturday as the extra days. Probability is 1/7[cite: 1668, 1669, 1670]."
+  },
+  {
+    "id": 63,
+    "question": "A speaks truth in 75% cases and B speaks truth in 80% cases. Probability that they contradict each other in a statement, is:",
+    "options": {
+      "A": "7/20",
+      "B": "13/20",
+      "C": "3/5",
+      "D": "2/5"
+    },
+    "correct_answer": "A",
+    "explanation": "P(Contradict) = P(A true)*P(B false) + P(A false)*P(B true) = (3/4)*(1/5) + (1/4)*(4/5) = 3/20 + 4/20 = 7/20[cite: 1680]."
+  },
+  {
+    "id": 64,
+    "question": "A bag X contains 2 white and 3 black balls and another bag Y contains 4 white and 2 black balls. One bag is selected at random and a ball is drawn from it. Then, the probability chosen to be white is:",
+    "options": {
+      "A": "2/15",
+      "B": "7/15",
+      "C": "8/15",
+      "D": "14/15"
+    },
+    "correct_answer": "C",
+    "explanation": "P(White) = P(X)*P(W|X) + P(Y)*P(W|Y) = (1/2)*(2/5) + (1/2)*(4/6) = 1/5 + 1/3 = 8/15[cite: 1694]."
+  },
+  {
+    "id": 65,
+    "question": "The coefficient of x^-17 in the expansion of (x^4 - 1/x^3)^15 is:",
+    "options": {
+      "A": "1365",
+      "B": "-1365",
+      "C": "3003",
+      "D": "-3003"
+    },
+    "correct_answer": "B",
+    "explanation": "General term Tr+1 = C(15,r) (x^4)^(15-r) (-x^-3)^r. Exponent of x: 4(15-r) - 3r = 60 - 7r. We need 60 - 7r = -17 => 7r = 77 => r = 11. Coeff = C(15,11) * (-1)^11 = 1365 * (-1) = -1365[cite: 1704, 1709]."
+  },
+  {
+    "id": 66,
+    "question": "The middle term in the expansion of (2x^2/3 + 3/(2x^2))^10 is:",
+    "options": {
+      "A": "251",
+      "B": "252",
+      "C": "250",
+      "D": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "For power 10 (even), middle term is T(10/2 + 1) = T6. T6 = C(10,5) * (2x^2/3)^5 * (3/2x^2)^5. The x terms and coefficients cancel out (2/3)^5 * (3/2)^5 = 1. Result is C(10,5) = 252[cite: 1721]."
+  },
+  {
+    "id": 67,
+    "question": "The sum of n terms of the series 1/(1*2) + 1/(2*3) + 1/(3*4) + ... is:",
+    "options": {
+      "A": "1/(n+1)",
+      "B": "n/(n+1)",
+      "C": "1/n",
+      "D": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Telescoping series: Sum = Σ(1/r - 1/(r+1)) from r=1 to n. Sum = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1) = n/(n+1)[cite: 1735]."
+  },
+  {
+    "id": 68,
+    "question": "The sum of an infinite G.P. is 4 and the sum of the cubes of its terms is 192. The common ratio of the original G.P. is:",
+    "options": {
+      "A": "1/2",
+      "B": "2/3",
+      "C": "1/3",
+      "D": "-1/2"
+    },
+    "correct_answer": "D",
+    "explanation": "S = a/(1-r) = 4. Sum of cubes = a^3 / (1-r^3) = 192. Solving these equations yields r = -1/2[cite: 1747]."
+  },
+  {
+    "id": 69,
+    "question": "If A(60i + 3j), B(40i - 8j) and C(ai - 52j) points are collinear, then a is equal to:",
+    "options": {
+      "A": "40",
+      "B": "-40",
+      "C": "20",
+      "D": "-20"
+    },
+    "correct_answer": "B",
+    "explanation": "Collinear points imply parallel vectors AB and BC (or equal slopes). Slope AB = (-8-3)/(40-60) = -11/-20 = 11/20. Slope BC = (-52 - (-8))/(a - 40) = -44/(a-40). Equating slopes: 11/20 = -44/(a-40) => a-40 = -80 => a = -40[cite: 1758]."
+  },
+  {
+    "id": 70,
+    "question": "A line passes through the point (2, 2) and is perpendicular to the line 3x + y = 3. Its y-intercept is:",
+    "options": {
+      "A": "1/3",
+      "B": "2/3",
+      "C": "1",
+      "D": "4/3"
+    },
+    "correct_answer": "D",
+    "explanation": "Slope of given line = -3. Perpendicular slope = 1/3. Equation: y - 2 = (1/3)(x - 2) => y = x/3 - 2/3 + 2 => y = x/3 + 4/3. y-intercept is 4/3[cite: 1771]."
+  },
+  {
+    "id": 71,
+    "question": "If the point (5, 2) bisects the intercept of a line between the axes, then its equation is:",
+    "options": {
+      "A": "5x + 2y = 20",
+      "B": "2x + 5y = 20",
+      "C": "5x - 2y = 20",
+      "D": "2x - 5y = 20"
+    },
+    "correct_answer": "B",
+    "explanation": "Let intercepts be (a,0) and (0,b). Midpoint (a/2, b/2) = (5,2) => a=10, b=4. Intercept form: x/10 + y/4 = 1 => 2x + 5y = 20[cite: 1782]."
+  },
+  {
+    "id": 72,
+    "question": "The foci of the hyperbola 9x^2 - 16y^2 = 144 are:",
+    "options": {
+      "A": "(+/- 4, 0)",
+      "B": "(0, +/- 4)",
+      "C": "(+/- 5, 0)",
+      "D": "(0, +/- 5)"
+    },
+    "correct_answer": "C",
+    "explanation": "Equation: x^2/16 - y^2/9 = 1. a^2=16, b^2=9. c^2 = a^2+b^2 = 25 => c=5. Foci are (+/- c, 0) = (+/- 5, 0)[cite: 1795]."
+  },
+  {
+    "id": 73,
+    "question": "The latus-rectum of the hyperbola 16x^2 - 9y^2 = 144 is:",
+    "options": {
+      "A": "16/3",
+      "B": "32/3",
+      "C": "8/3",
+      "D": "4/3"
+    },
+    "correct_answer": "B",
+    "explanation": "Equation: x^2/9 - y^2/16 = 1. a^2=9 (a=3), b^2=16. Latus rectum = 2b^2/a = 2(16)/3 = 32/3[cite: 1806]."
+  },
+  {
+    "id": 74,
+    "question": "If 2x^2 + λxy + 2y^2 + (λ-4)x + 6y - 5 = 0 is the equation of a circle, then its radius is:",
+    "options": {
+      "A": "2√2",
+      "B": "3√2",
+      "C": "2√3",
+      "D": "none of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "For a circle, coeff of xy term (λ) must be 0. Equation becomes 2x^2 + 2y^2 - 4x + 6y - 5 = 0. Divide by 2: x^2 + y^2 - 2x + 3y - 2.5 = 0. g=-1, f=1.5, c=-2.5. Radius r = √(g^2 + f^2 - c) = √(1 + 2.25 + 2.5) = √5.75 = √(23/4) = √23 / 2. This does not match options A, B, C[cite: 1821, 1825]."
+  },
+  {
+    "id": 75,
+    "question": "If the point (2, k) lies outside the circles x^2 + y^2 + x - 2y - 14 = 0 and x^2 + y^2 = 13 then k lies in the interval:",
+    "options": {
+      "A": "(-3, -2) U (3, 4)",
+      "B": "(-3, 4)",
+      "C": "(-infinity, -3) U (4, infinity)",
+      "D": "(-infinity, -2) U (3, infinity)"
+    },
+    "correct_answer": "C",
+    "explanation": "Substitute (2,k) into S1 > 0 and S2 > 0. Solving inequalities gives the intersection of regions which is (-infinity, -3) U (4, infinity)[cite: 1838]."
+  },
+  {
+    "id": 76,
+    "question": "If the circles x^2 + y^2 = 9 and x^2 + y^2 + 8y + c = 0 touch each other, then c is equal to:",
+    "options": {
+      "A": "15",
+      "B": "15",
+      "C": "16",
+      "D": "-16"
+    },
+    "correct_answer": "D",
+    "explanation": "Distance between centers = Sum of radii (external touch) or difference (internal). Centers: (0,0) and (0,-4). Distance d=4. r1=3. r2 = √(16-c). If |r1 +/- r2| = d, solving for c yields c = -16 for the valid case[cite: 1850]."
+  },
+  {
+    "id": 77,
+    "question": "The eccentricity of the ellipse x^2/a^2 + y^2/b^2 = 1 if its latus rectum is equal to one half of its minor axis, is:",
+    "options": {
+      "A": "1/√2",
+      "B": "√3/2",
+      "C": "1/2",
+      "D": "none of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Latus rectum 2b^2/a = (1/2)(2b) = b => 2b = a. e = √(1 - b^2/a^2) = √(1 - (a/2)^2 / a^2) = √(1 - 1/4) = √3/2[cite: 1862]."
+  },
+  {
+    "id": 78,
+    "question": "The equation of the circle concentric with x^2 + y^2 - 3x + 4y - c = 0 and passing through (-1, - 2) is:",
+    "options": {
+      "A": "x^2 + y^2 - 3x + 4y - 1 = 0",
+      "B": "x^2 + y^2 - 3x + 4y = 0",
+      "C": "x^2 + y^2 - 3x + 4y + 2 = 0",
+      "D": "none of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Concentric means same center terms (x^2 + y^2 - 3x + 4y). Plug in (-1, -2): 1 + 4 - 3(-1) + 4(-2) + k = 0 => 1+4+3-8+k=0 => k=0. Equation is x^2 + y^2 - 3x + 4y = 0[cite: 1872]."
+  },
+  {
+    "id": 79,
+    "question": "The area of an equilateral triangle inscribed in the circle x^2 + y^2 - 6x - 8y - 25 = 0 is:",
+    "options": {
+      "A": "(225√3)/6",
+      "B": "25 π",
+      "C": "50 π - 100",
+      "D": "none of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Radius r = √(9+16+25) = √50 = 5√2. Side of inscribed equilateral triangle a = r√3 = 5√6. Area = (√3/4)a^2 = (√3/4)(25*6) = (150√3)/4 = 75√3/2. Checking option A: 225√3/6 = 75√3/2. Matches[cite: 1887]."
+  },
+  {
+    "id": 80,
+    "question": "The vertex of the parabola (y+a)^2 = 8a(x-a) is:",
+    "options": {
+      "A": "(-a, -a)",
+      "B": "(a, -a)",
+      "C": "(-a, a)",
+      "D": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Vertex is where the squared term is 0 and linear term is 0. y+a=0 => y=-a. x-a=0 => x=a. Vertex is (a, -a)[cite: 1897]."
+  },
+  {
+    "id": 81,
+    "question": "If A is a 3x3 matrix with det(A) = 2, what is the determinant of adj(A)?",
+    "options": {
+      "A": "8",
+      "B": "4",
+      "C": "2",
+      "D": "1"
+    },
+    "correct_answer": "B",
+    "explanation": "det(adj A) = (det A)^(n-1) where n=3. det(adj A) = 2^(3-1) = 2^2 = 4[cite: 1907]."
+  },
+  {
+    "id": 82,
+    "question": "If det(A) = 5, what is det(adj(adj(A))) for a 3x3 matrix?",
+    "options": {
+      "A": "625",
+      "B": "125",
+      "C": "25",
+      "D": "5"
+    },
+    "correct_answer": "A",
+    "explanation": "det(adj(adj A)) = (det A)^((n-1)^2). For n=3, exponent is (2)^2 = 4. Result = 5^4 = 625[cite: 1914]."
+  },
+  {
+    "id": 83,
+    "question": "If A is an orthogonal matrix, then the dot product of two columns of A is:",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "-1",
+      "D": "Depends on the matrix"
+    },
+    "correct_answer": "B",
+    "explanation": "In an orthogonal matrix, columns (and rows) form an orthonormal set. The dot product of two distinct columns is 0[cite: 1924]."
+  },
+  {
+    "id": 84,
+    "question": "If ∫ x sin(x) dx = -x cos x + α, then α is equal to:",
+    "options": {
+      "A": "sin x + c",
+      "B": "cos x + c",
+      "C": "C",
+      "D": "none of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Integration by parts of x sin(x): u=x, dv=sin x dx. result = -x cos x + ∫ cos x dx = -x cos x + sin x + C. Thus α = sin x + C[cite: 1934]."
+  },
+  {
+    "id": 85,
+    "question": "The value of arg(-3) is:",
+    "options": {
+      "A": "π",
+      "B": "0",
+      "C": "π/2",
+      "D": "-π/2"
+    },
+    "correct_answer": "A",
+    "explanation": "The complex number -3 lies on the negative real axis. The argument (angle) is π (180 degrees)[cite: 1945]."
+  },
+  {
+    "id": 86,
+    "question": "The distance between the planes 2x + 2y - z + 2 = 0 and 4x + 4y - 2z + 5 = 0 is:",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/6",
+      "D": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "Simplify second plane: 2x + 2y - z + 2.5 = 0. Distance d = |d1 - d2| / √(a^2+b^2+c^2) = |2.5 - 2| / √(4+4+1) = 0.5 / 3 = 1/6[cite: 1956]."
+  },
+  {
+    "id": 87,
+    "question": "The equation of the plane through the intersection of the planes ax + by + cz + d = 0 and lx + my + nz + p = 0 and parallel to the line y = 0, z = 0 is:",
+    "options": {
+      "A": "(bl-am)y + (cl-an)z + dl-ap = 0",
+      "B": "(am-bl)x + (mc-bm)z + md-bp = 0",
+      "C": "(na-cl)x + (bm-cm)y + nd-cp = 0",
+      "D": "none of these"
+    },
+    "correct_answer": "A",
+    "explanation": "This corresponds to finding a plane in the family (P1 + kP2 = 0) that is parallel to the x-axis (y=0, z=0 is the x-axis). The normal of the resulting plane must be perpendicular to (1,0,0). This implies the x-coefficient is 0. ax + k(lx) = 0 => a+kl = 0 => k = -a/l. Substituting k back gives the equation which matches option A[cite: 1962]."
+  },
+  {
+    "id": 88,
+    "question": "If π/2 < x < π, then √( (1+sin x)/(1-sin x) ) + √( (1-sin x)/(1+sin x) ) is equal to:",
+    "options": {
+      "A": "2 sec x",
+      "B": "-2 sec x",
+      "C": "sec x",
+      "D": "- sec x"
+    },
+    "correct_answer": "B",
+    "explanation": "The expression simplifies to 2/cos(x) = 2 sec(x). However, since x is in the second quadrant (π/2 < x < π), cos(x) is negative, so the square roots resolve to positive values by introducing a negative sign, resulting in -2 sec(x)[cite: 1976]."
+  },
+  {
+    "id": 89,
+    "question": "If tan x + sec x = √3, 0 < x < π, then x is equal to:",
+    "options": {
+      "A": "5π/6",
+      "B": "π/6",
+      "C": "2π/3",
+      "D": "π/3"
+    },
+    "correct_answer": "B",
+    "explanation": "Checking values: For x = π/6 (30°), tan(30) + sec(30) = 1/√3 + 2/√3 = 3/√3 = √3. This matches. Note: The provided answer key says B but marks π/3 in text at 1991, but explanation calculation 1989 shows π/6 works. Wait, explanation 1989 says 'Correct match for x=π/3' but the calculation shown 'sum=√3' is for π/6. Let's trust the math: π/6 gives √3. π/3 gives √3 + 2 > √3. So B (π/6) is correct. Note: The key in text 1991 says 'Answer: π/3' but the logic points to π/6. Based on standard trig, π/6 is correct."
+  },
+  {
+    "id": 90,
+    "question": "If cosec x - cot x = 1/2, 0 < x < π/2, then cos x is equal to:",
+    "options": {
+      "A": "5/3",
+      "B": "3/5",
+      "C": "-5/3",
+      "D": "-3/5"
+    },
+    "correct_answer": "B",
+    "explanation": "We know (cosec x - cot x)(cosec x + cot x) = 1. So cosec x + cot x = 2. Adding equations: 2 cosec x = 2.5 => cosec x = 5/4 => sin x = 4/5. Then cos x = 3/5 (since x is in first quadrant)[cite: 2002]."
+  },
+  {
+    "id": 91,
+    "question": "The function f: R -> R defined by f(x) = 2^x + 2^|x| is:",
+    "options": {
+      "A": "one-one and onto",
+      "B": "many-one and onto",
+      "C": "one-one and into",
+      "D": "many-one and into"
+    },
+    "correct_answer": "D",
+    "explanation": "For x > 0, f(x) = 2.2^x. For x < 0, f(x) = 2^x + 2^-x. Since f(x) is even for the second part? No. Check x=-1: 2^-1 + 2^1 = 2.5. Check x=1: 2^1 + 2^1 = 4. It's not even. But for negative x, f(x) values can be repeated or it's not covering all R (range is positive). Since range is subset of R+ (into) and graph properties show many-one (e.g. check derivative or specific values), it is many-one and into[cite: 2014]."
+  },
+  {
+    "id": 92,
+    "question": "Let A = {x in R: -1 <= x <= 1} = B. Then, the mapping f: A -> B given by f(x) = x|x| is:",
+    "options": {
+      "A": "injective but not surjective",
+      "B": "surjective but not injective",
+      "C": "bijective",
+      "D": "none of these"
+    },
+    "correct_answer": "C",
+    "explanation": "f(x) = x|x| is strictly increasing on [-1, 1] (derivative is 2|x| >= 0). Range is [-1, 1] = B. Thus it is one-one and onto (bijective)[cite: 2021]."
+  },
+  {
+    "id": 93,
+    "question": "Which of the following functions from Z to itself are bijections?",
+    "options": {
+      "A": "f(x) = x^3",
+      "B": "f(x) = x + 2",
+      "C": "f(x) = 2x + 1",
+      "D": "f(x) = x^2 + x"
+    },
+    "correct_answer": "B",
+    "explanation": "f(x) = x + 2 maps integers to integers uniquely and covers all integers (onto). Others fail: x^3 misses integers like 2; 2x+1 misses even numbers; x^2+x is not one-one (-1 and 0 map to 0)[cite: 2035]."
+  },
+  {
+    "id": 94,
+    "question": "Show that the function f defined as f(x) = x^n cos(1/x) if x != 0, 0 if x = 0. Is differentiable at x = 0 then:",
+    "options": {
+      "A": "n < 1",
+      "B": "n > 1",
+      "C": "n = 1",
+      "D": "n may be positive or zero"
+    },
+    "correct_answer": "B",
+    "explanation": "For differentiability at 0, limit (f(x) - f(0))/x must exist. Limit x^(n-1) cos(1/x) as x->0 exists (is 0) only if n-1 > 0 => n > 1[cite: 2051]."
+  },
+  {
+    "id": 95,
+    "question": "Consider the function f(x) = |x|^3, where x is real. Then the function at x = 0 is:",
+    "options": {
+      "A": "Continuous but not differentiable",
+      "B": "Once differentiable not twice",
+      "C": "Twice differentiable but not thrice",
+      "D": "Thrice differentiable"
+    },
+    "correct_answer": "C",
+    "explanation": "f(x) = x^3 for x>0, -x^3 for x<0. f'(x) = 3x^2 / -3x^2 (diff at 0 is 0). f''(x) = 6x / -6x (diff at 0 is 0). f'''(x) = 6 / -6 (discontinuous at 0). So twice differentiable but not thrice[cite: 2061]."
+  },
+  {
+    "id": 96,
+    "question": "lim (x -> π) sin(x-π)/(x-π) is equal to:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "-1",
+      "D": "-2"
+    },
+    "correct_answer": "A",
+    "explanation": "Let h = x - π. As x -> π, h -> 0. Limit becomes lim(h->0) sin(h)/h = 1[cite: 2071]."
+  },
+  {
+    "id": 97,
+    "question": "Find the limit lim (x -> 1) (x^3 - 1)/(x - 1):",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "explanation": "Using a^3 - b^3 formula or L'Hopital's rule. (x^2 + x + 1). At x=1, 1+1+1 = 3[cite: 2081]."
+  },
+  {
+    "id": 98,
+    "question": "For the system of equations represented by the matrix equation AX = B, if det(A) = 0, the system is:",
+    "options": {
+      "A": "Consistent with a unique solution",
+      "B": "Inconsistent",
+      "C": "Consistent with infinite solutions",
+      "D": "Either b or c"
+    },
+    "correct_answer": "D",
+    "explanation": "If det(A) = 0, the matrix is singular. The system has either no solution (inconsistent) or infinitely many solutions, depending on B[cite: 2090]."
+  },
+  {
+    "id": 99,
+    "question": "Find the limit of the function f(x) = lim (x -> infinity) (√(x^2 - 7x) - x):",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-7/2",
+      "D": "7/2"
+    },
+    "correct_answer": "C",
+    "explanation": "Multiply by conjugate: (x^2 - 7x - x^2) / (√(x^2-7x) + x) = -7x / (x√(1-7/x) + x) approx -7x / 2x = -7/2[cite: 2099]."
+  },
+  {
+    "id": 100,
+    "question": "Find the limit of the function f(x) = lim (x -> 0) sin(2x) / (e^x - 1):",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-2",
+      "D": "2"
+    },
+    "correct_answer": "D",
+    "explanation": "Using standard limits: (sin 2x / 2x) * 2 * (x / (e^x - 1)) = 1 * 2 * 1 = 2[cite: 2106]."
+  },
+  {
+    "id": 101,
+    "question": "Which of the following has the highest ionization enthalpy?",
+    "options": {
+      "A": "Li",
+      "B": "B",
+      "C": "Be",
+      "D": "C"
+    },
+    "correct_answer": "C",
+    "explanation": "Beryllium (Be) has a stable fully filled 2s subshell, making it harder to remove an electron compared to Boron (B) despite the trend, so Be > B. (Actually C is higher than Be, but answer key says C. Wait, answer key text says 'Answer: C. Be' at 2113. Note: In the options provided in text, C is Be. Option D is C (Carbon). Carbon generally has higher IE than Be. But following the provided answer key logic which explicitly names 'Be').[cite: 2113, 2114]."
+  },
+  {
+    "id": 102,
+    "question": "Which law states that \"equal volumes of all gases under similar conditions contain equal number of molecules\"?",
+    "options": {
+      "A": "Dalton's Law",
+      "B": "Avogadro's Law",
+      "C": "Boyle's Law",
+      "D": "Charles' Law"
+    },
+    "correct_answer": "B",
+    "explanation": "Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules[cite: 2121, 2122]."
+  },
+  {
+    "id": 103,
+    "question": "At constant temperature, pressure is inversely proportional to volume. This is:",
+    "options": {
+      "A": "Charles' Law",
+      "B": "Gay-Lussac's Law",
+      "C": "Boyle's Law",
+      "D": "Avogadro's Law"
+    },
+    "correct_answer": "C",
+    "explanation": "Boyle's Law describes the inverse relationship between pressure and volume at constant temperature[cite: 2128]."
+  },
+  {
+    "id": 104,
+    "question": "The rate constant has the same units as rate of reaction in:",
+    "options": {
+      "A": "Zero order reaction",
+      "B": "First order",
+      "C": "Second order",
+      "D": "Third order"
+    },
+    "correct_answer": "A",
+    "explanation": "For a zero-order reaction, Rate = k[A]^0 = k. Thus units of k are same as Rate (mol L^-1 s^-1)[cite: 2137, 2138]."
+  },
+  {
+    "id": 105,
+    "question": "The energy required to remove an electron from an isolated gaseous atom is called:",
+    "options": {
+      "A": "Electron affinity",
+      "B": "Ionization energy",
+      "C": "Electronegativity",
+      "D": "Enthalpy of atomization"
+    },
+    "correct_answer": "B",
+    "explanation": "Ionization energy is the minimum energy required to remove the most loosely bound electron from an isolated gaseous atom[cite: 2144]."
+  },
+  {
+    "id": 106,
+    "question": "Which of the following solutions shows a negative deviation from Raoult's law?",
+    "options": {
+      "A": "Acetone + Benzene",
+      "B": "Acetone + Ethanol",
+      "C": "HCl + Water",
+      "D": "Acetone + Chloroform"
+    },
+    "correct_answer": "D",
+    "explanation": "Acetone and Chloroform form hydrogen bonds with each other, leading to stronger intermolecular forces and negative deviation (lower vapor pressure)[cite: 2151]."
+  },
+  {
+    "id": 107,
+    "question": "Which of the following affects the rate of reaction?",
+    "options": {
+      "A": "Pressure",
+      "B": "Catalyst",
+      "C": "Concentration",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Reaction rate is influenced by concentration, pressure (for gases), temperature, and catalysts[cite: 2158]."
+  },
+  {
+    "id": 108,
+    "question": "Van't Hoff factor (i) for Na2SO4 is:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "explanation": "Na2SO4 dissociates into 2 Na+ and 1 SO4^2-, totaling 3 ions. Assuming complete dissociation, i = 3[cite: 2164, 2165]."
+  },
+  {
+    "id": 109,
+    "question": "Which of the following has maximum boiling point?",
+    "options": {
+      "A": "H2O",
+      "B": "H2S",
+      "C": "H2Se",
+      "D": "H2"
+    },
+    "correct_answer": "A",
+    "explanation": "Water (H2O) has strong hydrogen bonding, resulting in a much higher boiling point compared to other hydrides in the group[cite: 2173]."
+  },
+  {
+    "id": 110,
+    "question": "Which of the following compounds will have the highest conductivity in water?",
+    "options": {
+      "A": "CH3COOH",
+      "B": "NaCl",
+      "C": "HCl",
+      "D": "Glucose"
+    },
+    "correct_answer": "C",
+    "explanation": "HCl is a strong acid and completely ionizes in water, providing high conductivity. NaCl is a salt, also conductive. Key says C (HCl), likely because H+ ions have very high mobility[cite: 2183]."
+  },
+  {
+    "id": 111,
+    "question": "Which of the following compounds will undergo nucleophilic substitution most readily?",
+    "options": {
+      "A": "Benzyl chloride",
+      "B": "Vinyl chloride",
+      "C": "Chlorobenzene",
+      "D": "Methyl chloride"
+    },
+    "correct_answer": "A",
+    "explanation": "Benzyl chloride reacts readily via SN1 because the benzyl carbocation intermediate is resonance stabilized[cite: 2189]."
+  },
+  {
+    "id": 112,
+    "question": "Which of the following has the highest acidic strength?",
+    "options": {
+      "A": "CH4",
+      "B": "C2H2",
+      "C": "C2H4",
+      "D": "C2H6"
+    },
+    "correct_answer": "B",
+    "explanation": "Acetylene (C2H2) contains sp hybridized carbons which are more electronegative, making the attached hydrogens more acidic[cite: 2196]."
+  },
+  {
+    "id": 113,
+    "question": "Tollen's reagent is used to test for:",
+    "options": {
+      "A": "Ketones",
+      "B": "Alcohols",
+      "C": "Aldehydes",
+      "D": "Carboxylic acids"
+    },
+    "correct_answer": "C",
+    "explanation": "Tollen's reagent (ammoniacal silver nitrate) oxidizes aldehydes to carboxylic acids, reducing silver ions to metallic silver (silver mirror)[cite: 2204]."
+  },
+  {
+    "id": 114,
+    "question": "Which of the following does not give iodoform test?",
+    "options": {
+      "A": "Ethanol",
+      "B": "Acetone",
+      "C": "Methanol",
+      "D": "Ethanal"
+    },
+    "correct_answer": "C",
+    "explanation": "Iodoform test is positive for methyl ketones (CH3-C=O) or methyl carbinols (CH3-CH-OH). Methanol does not have this structure[cite: 2211]."
+  },
+  {
+    "id": 115,
+    "question": "The hybridization of carbon in CH2=CH2 is:",
+    "options": {
+      "A": "sp",
+      "B": "sp^2",
+      "C": "sp^3",
+      "D": "sp^2 and sp^3"
+    },
+    "correct_answer": "B",
+    "explanation": "In ethene (CH2=CH2), each carbon is double bonded, corresponding to sp^2 hybridization[cite: 2219]."
+  },
+  {
+    "id": 116,
+    "question": "Which of the following compounds is aromatic?",
+    "options": {
+      "A": "Cyclobutadiene",
+      "B": "Cyclohexene",
+      "C": "Benzene",
+      "D": "Cyclooctatetraene"
+    },
+    "correct_answer": "C",
+    "explanation": "Benzene is planar, cyclic, conjugated, and follows Huckel's rule (4n+2 pi electrons), making it aromatic[cite: 2227]."
+  },
+  {
+    "id": 117,
+    "question": "Hydrolysis of an ester in acidic medium gives:",
+    "options": {
+      "A": "Alcohol and ether",
+      "B": "Carboxylic acid and alcohol",
+      "C": "Alcohol and ketone",
+      "D": "Carboxylic acid and alkane"
+    },
+    "correct_answer": "B",
+    "explanation": "Acid hydrolysis of an ester yields a carboxylic acid and an alcohol[cite: 2235]."
+  },
+  {
+    "id": 118,
+    "question": "Which reagent is used for the conversion of alcohol to aldehyde?",
+    "options": {
+      "A": "NaBH4",
+      "B": "PCC",
+      "C": "LiAlH4",
+      "D": "KMnO4"
+    },
+    "correct_answer": "B",
+    "explanation": "PCC (Pyridinium Chlorochromate) is a mild oxidizing agent that converts primary alcohols to aldehydes without over-oxidizing to carboxylic acids[cite: 2241]."
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is most reactive towards electrophilic substitution?",
+    "options": {
+      "A": "Nitrobenzene",
+      "B": "Toluene",
+      "C": "Benzene",
+      "D": "Chlorobenzene"
+    },
+    "correct_answer": "B",
+    "explanation": "Toluene has a methyl group which is electron-donating (activating), making the ring more reactive to electrophiles compared to benzene or deactivated rings[cite: 2248]."
+  },
+  {
+    "id": 120,
+    "question": "Which of the following gives yellow precipitate with I2/NaOH?",
+    "options": {
+      "A": "Propan-2-ol",
+      "B": "Ethanol",
+      "C": "Methanol",
+      "D": "Butan-1-ol"
+    },
+    "correct_answer": "A",
+    "explanation": "Propan-2-ol (and Ethanol) contains the required structural group for the haloform reaction, yielding yellow iodoform precipitate. (Note: Key says A, though Ethanol also gives it. Propan-2-ol is a classic example) [cite: 2254]."
+  },
+  {
+    "id": 121,
+    "question": "Which of the following does not exhibit hydrogen bonding?",
+    "options": {
+      "A": "NH3",
+      "B": "HF",
+      "C": "HCl",
+      "D": "H2O"
+    },
+    "correct_answer": "C",
+    "explanation": "HCl molecules interact mainly via dipole-dipole forces; Chlorine is not sufficiently electronegative (compared to N, O, F) to form strong hydrogen bonds[cite: 2265]."
+  },
+  {
+    "id": 122,
+    "question": "Which of the following has the maximum number of unpaired electrons?",
+    "options": {
+      "A": "Cr",
+      "B": "Fe",
+      "C": "Mn",
+      "D": "Co"
+    },
+    "correct_answer": "A",
+    "explanation": "Chromium (Cr) has the configuration [Ar] 3d5 4s1, which has 6 unpaired electrons[cite: 2274]."
+  },
+  {
+    "id": 123,
+    "question": "Which oxide of nitrogen is neutral?",
+    "options": {
+      "A": "NO2",
+      "B": "N2O",
+      "C": "NO",
+      "D": "N2O5"
+    },
+    "correct_answer": "C",
+    "explanation": "Nitric oxide (NO) and Nitrous oxide (N2O) are neutral oxides. Answer key selects NO[cite: 2281]."
+  },
+  {
+    "id": 124,
+    "question": "What is the oxidation state of Mn in KMnO4?",
+    "options": {
+      "A": "+2",
+      "B": "+4",
+      "C": "+6",
+      "D": "+7"
+    },
+    "correct_answer": "D",
+    "explanation": "K (+1) + Mn (x) + 4*O (-8) = 0 => x = +7[cite: 2288]."
+  },
+  {
+    "id": 125,
+    "question": "Which one of the following does not form a complex with NH3?",
+    "options": {
+      "A": "Cu+",
+      "B": "Zn2+",
+      "C": "Ag+",
+      "D": "Na+"
+    },
+    "correct_answer": "D",
+    "explanation": "Na+ is an alkali metal ion with no available d-orbitals for complex formation with ammonia, unlike transition metal ions[cite: 2298]."
+  },
+  {
+    "id": 126,
+    "question": "Which compound is used for the test of nitrogen in Lassaigne's test?",
+    "options": {
+      "A": "FeSO4",
+      "B": "Na",
+      "C": "AgNO3",
+      "D": "CuSO4"
+    },
+    "correct_answer": "A",
+    "explanation": "Ferrous sulphate (FeSO4) is added to the sodium fusion extract. It reacts to form Prussian blue if nitrogen is present[cite: 2304]."
+  },
+  {
+    "id": 127,
+    "question": "The formula of bleaching powder is:",
+    "options": {
+      "A": "CaOCl2",
+      "B": "CaCl2",
+      "C": "Ca(ClO)2",
+      "D": "CaCO3"
+    },
+    "correct_answer": "A",
+    "explanation": "Bleaching powder is Calcium oxychloride, CaOCl2[cite: 2312]."
+  },
+  {
+    "id": 128,
+    "question": "Which of the following is amphoteric?",
+    "options": {
+      "A": "Na2O",
+      "B": "Al2O3",
+      "C": "CaO",
+      "D": "SO2"
+    },
+    "correct_answer": "B",
+    "explanation": "Aluminum oxide (Al2O3) can react with both acids and bases, making it amphoteric[cite: 2319]."
+  },
+  {
+    "id": 129,
+    "question": "Brown ring is formed in nitrate test due to the presence of:",
+    "options": {
+      "A": "Fe2+",
+      "B": "Fe(NO)2+",
+      "C": "NO",
+      "D": "Fe3+"
+    },
+    "correct_answer": "B",
+    "explanation": "The brown ring is due to the formation of the complex ion [Fe(H2O)5(NO)]2+, represented as Fe(NO)2+[cite: 2327]."
+  },
+  {
+    "id": 130,
+    "question": "Which is the most basic oxide among the following?",
+    "options": {
+      "A": "Na2O",
+      "B": "Al2O3",
+      "C": "MgO",
+      "D": "P2O5"
+    },
+    "correct_answer": "A",
+    "explanation": "Na2O is an alkali metal oxide and is strongly basic. Al2O3 is amphoteric, MgO is basic but less than Na2O, P2O5 is acidic[cite: 2334]."
+  },
+  {
+    "id": 131,
+    "question": "A reaction is spontaneous when:",
+    "options": {
+      "A": "Delta G = 0",
+      "B": "Delta G > 0",
+      "C": "Delta G < 0",
+      "D": "Delta H > 0"
+    },
+    "correct_answer": "C",
+    "explanation": "A process is thermodynamically spontaneous if the Gibbs free energy change (ΔG) is negative[cite: 2342]."
+  },
+  {
+    "id": 132,
+    "question": "In electrochemical cells, electrons flow from:",
+    "options": {
+      "A": "Cathode to anode",
+      "B": "Anode to cathode",
+      "C": "Salt bridge to cathode",
+      "D": "Electrolyte to anode"
+    },
+    "correct_answer": "B",
+    "explanation": "In an electrochemical cell, oxidation occurs at the anode (releasing electrons) and reduction at the cathode. Electrons flow through the external circuit from Anode to Cathode[cite: 2348]."
+  },
+  {
+    "id": 133,
+    "question": "Which pair behaves as conjugate acid-base?",
+    "options": {
+      "A": "NH4+ / NH3",
+      "B": "HCl / NaCl",
+      "C": "CH3COOH / CH3COCH3",
+      "D": "H2SO4 / SO4 2-"
+    },
+    "correct_answer": "A",
+    "explanation": "NH4+ and NH3 differ by a single proton (H+), making them a conjugate acid-base pair[cite: 2356]."
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is not an electrolyte?",
+    "options": {
+      "A": "NaCl",
+      "B": "Glucose",
+      "C": "HCl",
+      "D": "NaOH"
+    },
+    "correct_answer": "B",
+    "explanation": "Glucose dissolves in water as neutral molecules and does not conduct electricity, so it is a non-electrolyte[cite: 2364]."
+  },
+  {
+    "id": 135,
+    "question": "In which of the following, hydrogen is bonded by coordinate bond?",
+    "options": {
+      "A": "HCl",
+      "B": "H2O",
+      "C": "NH4+",
+      "D": "CH4"
+    },
+    "correct_answer": "C",
+    "explanation": "In the ammonium ion (NH4+), the fourth hydrogen is attached to the nitrogen via a coordinate covalent bond (lone pair donation from N to H+)[cite: 2372, 2374]."
+  },
+  {
+    "id": 136,
+    "question": "Which metal is extracted by Hall's process?",
+    "options": {
+      "A": "Iron",
+      "B": "Zinc",
+      "C": "Copper",
+      "D": "Aluminium"
+    },
+    "correct_answer": "D",
+    "explanation": "Hall's process (Hall-Heroult process) is used for the electrolytic extraction of Aluminium[cite: 2380]."
+  },
+  {
+    "id": 137,
+    "question": "Which element shows variable oxidation states and forms colored compounds?",
+    "options": {
+      "A": "Calcium",
+      "B": "Zinc",
+      "C": "Copper",
+      "D": "Sodium"
+    },
+    "correct_answer": "C",
+    "explanation": "Copper is a transition metal, which characteristically shows variable oxidation states and forms colored compounds (unlike Zn, Ca, Na)[cite: 2387]."
+  },
+  {
+    "id": 138,
+    "question": "Which of the following has the highest lattice energy?",
+    "options": {
+      "A": "NaCl",
+      "B": "MgCl2",
+      "C": "BaCl2",
+      "D": "CsCl"
+    },
+    "correct_answer": "B",
+    "explanation": "Lattice energy increases with higher charge and smaller ion size. Mg2+ has a higher charge (+2) and is small, leading to high lattice energy[cite: 2393]."
+  },
+  {
+    "id": 139,
+    "question": "Which form of sulphur is most stable at room temperature?",
+    "options": {
+      "A": "Rhombic",
+      "B": "Monoclinic",
+      "C": "Plastic",
+      "D": "Amorphous"
+    },
+    "correct_answer": "A",
+    "explanation": "Rhombic sulphur (alpha-sulphur) is the most stable allotrope of sulphur at room temperature[cite: 2399]."
+  },
+  {
+    "id": 140,
+    "question": "Which gas is used in the contact process for SO3 production?",
+    "options": {
+      "A": "O2",
+      "B": "CO2",
+      "C": "NH3",
+      "D": "N2"
+    },
+    "correct_answer": "A",
+    "explanation": "In the contact process, SO2 is oxidized to SO3 using Oxygen (O2) in the presence of a catalyst[cite: 2406]."
+  },
+  {
+    "id": 141,
+    "question": "Which Pass lies at the head of the Baspa Valley?",
+    "options": {
+      "A": "Jalori Pass",
+      "B": "Chung Shakhago Pass",
+      "C": "Drati Pass",
+      "D": "Burua Pass"
+    },
+    "correct_answer": "B",
+    "explanation": "Chung Shakhago Pass is located at the head of the Baspa Valley, in Kinnaur district of Himachal Pradesh[cite: 2415, 2417]."
+  },
+  {
+    "id": 142,
+    "question": "Which of the following lakes is not situated in Chamba district?",
+    "options": {
+      "A": "Ghadhasaru",
+      "B": "Sorang",
+      "C": "Mahakali",
+      "D": "Manimahesh"
+    },
+    "correct_answer": "B",
+    "explanation": "Sorang Lake is not located in Chamba; it is associated with the Kinnaur region[cite: 2424, 2425]."
+  },
+  {
+    "id": 143,
+    "question": "The earliest rock inscriptions in Brahmi script at Pathiar and Kanihara is in the District of:",
+    "options": {
+      "A": "Hamirpur",
+      "B": "Kangra",
+      "C": "Kullu",
+      "D": "Una"
+    },
+    "correct_answer": "B",
+    "explanation": "The Brahmi script inscriptions found at Pathiar and Kanihara are located in Kangra district[cite: 2430, 2431]."
+  },
+  {
+    "id": 144,
+    "question": "Which of the following dynasties was supposed to be founded by 'Pradyuman' the son of Lord Krishna?",
+    "options": {
+      "A": "Trigarta",
+      "B": "Kuluta",
+      "C": "Bushahr",
+      "D": "Sirmaur"
+    },
+    "correct_answer": "C",
+    "explanation": "The Bushahr dynasty claims descent from Pradyuman, the son of Lord Krishna[cite: 2436, 2437]."
+  },
+  {
+    "id": 145,
+    "question": "The river Satluj divides which of the following mountain range at Shipki?",
+    "options": {
+      "A": "Zanskar",
+      "B": "Pir Panjal",
+      "C": "Dhauladhar",
+      "D": "Shivalik"
+    },
+    "correct_answer": "A",
+    "explanation": "The Satluj River cuts through the Zanskar range near Shipki La pass in Kinnaur district[cite: 2443, 2445]."
+  },
+  {
+    "id": 146,
+    "question": "Who founded the town of Bharmaur and made it capital of the state?",
+    "options": {
+      "A": "Meru Verman",
+      "B": "Adi Verman",
+      "C": "Sahil Verman",
+      "D": "Lalit Verman"
+    },
+    "correct_answer": "A",
+    "explanation": "Meru Verman is believed to have founded Bharmaur and established it as the capital of Chamba[cite: 2451, 2452]."
+  },
+  {
+    "id": 147,
+    "question": "What is the vedic name of river Yamuna?",
+    "options": {
+      "A": "Kalindi",
+      "B": "Sutudri",
+      "C": "Vipasa",
+      "D": "Arjikiya"
+    },
+    "correct_answer": "A",
+    "explanation": "In Vedic literature, Yamuna is referred to as Kalindi[cite: 2460, 2461]."
+  },
+  {
+    "id": 148,
+    "question": "Outer Himalaya also called:",
+    "options": {
+      "A": "Lower Himalaya",
+      "B": "Shivalik",
+      "C": "Manak",
+      "D": "All of above"
+    },
+    "correct_answer": "D",
+    "explanation": "The Outer Himalayas are commonly known by all three names: Lower Himalaya, Shivalik, and Manak[cite: 2467, 2468]."
+  },
+  {
+    "id": 149,
+    "question": "Dhauladhar range lies in:",
+    "options": {
+      "A": "Kangra",
+      "B": "Chamba",
+      "C": "Kullu",
+      "D": "All of Above"
+    },
+    "correct_answer": "D",
+    "explanation": "The Dhauladhar range extends across the districts of Kangra, Chamba, and Kullu in Himachal Pradesh[cite: 2475, 2476]."
+  },
+  {
+    "id": 150,
+    "question": "Old Himachal includes:",
+    "options": {
+      "A": "Mahasu, Sirmaur, Solan, Lahaul Spiti",
+      "B": "Mahasu, Kangra, Mandi, Sirmaur",
+      "C": "Mandi, Sirmaur, Chamba, Mahasu",
+      "D": "Mandi, Kullu, Kangra, Solan"
+    },
+    "correct_answer": "C",
+    "explanation": "The traditional 'Old Himachal' region includes districts like Mandi, Sirmaur, Chamba, and Mahasu[cite: 2482, 2483]."
+  },
+  {
+    "id": 151,
+    "question": "There are 5 persons between A and B. There are 8 persons between B and C. If 3 persons are ahead of C and 21 persons are behind A, then find the maximum and minimum number of persons in the row.",
+    "options": {
+      "A": "40 and 28",
+      "B": "28 and 40",
+      "C": "38 and 25",
+      "D": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "For max: Order A...B...C. Total = 21 (behind A) + 1(A) + 5 + 1(B) + 8 + 1(C) + 3(ahead) = 40. For min: Overlap. Order C...B...A. Calculation gives 28.[cite: 2490, 2491]."
+  },
+  {
+    "id": 152,
+    "question": "Find the missing number from the given responses.\n2  5  10\n17 ? 37\n50 65 82",
+    "options": {
+      "A": "20",
+      "B": "26",
+      "C": "27",
+      "D": "32"
+    },
+    "correct_answer": "B",
+    "explanation": "Sequence logic: +3, +5, +7, +9... 2+3=5, 5+5=10, 10+7=17, 17+9=26. Checking next: 26+11=37. Correct.[cite: 2506, 2507]."
+  },
+  {
+    "id": 153,
+    "question": "In a certain code language 'MADRAS' is written as '-1'. How would 'DELHI' be written in that code language?",
+    "options": {
+      "A": "3",
+      "B": "-3",
+      "C": "4",
+      "D": "-5"
+    },
+    "correct_answer": "D",
+    "explanation": "Logic: Sum of place values. MADRAS: 13+1+4+18+1+19 = 56. 5-6 = -1. DELHI: 4+5+12+8+9 = 38. 3-8 = -5[cite: 2522, 2528]."
+  },
+  {
+    "id": 154,
+    "question": "Choose the cube formed from the question figure (Figure contains faces T, K, L, M, U).",
+    "options": {
+      "A": "MK K",
+      "B": "TU",
+      "C": "KL",
+      "D": "TL"
+    },
+    "correct_answer": "D",
+    "explanation": "The unfolded cube shows K opposite M, T opposite U, O opposite L. The option showing K and L adjacent with T is valid.[cite: 2542, 2546]."
+  },
+  {
+    "id": 155,
+    "question": "At what time between 3 pm and 4 pm will both the hands of a clock overlap each other?",
+    "options": {
+      "A": "4 minutes past 3",
+      "B": "30 minutes past 3",
+      "C": "16 4/11 minutes past 3",
+      "D": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "Overlap formula: Time = (12/11) * Minutes past. At 3, min hand at 15. Time = (12/11)*15 = 180/11 = 16 4/11 minutes[cite: 2557, 2559]."
+  },
+  {
+    "id": 156,
+    "question": "'प्र' उपसर्ग से निर्मित शब्द है :",
+    "options": {
+      "A": "प्रायोजित",
+      "B": "प्राक्कथन",
+      "C": "प्रागैतिहासिक",
+      "D": "प्राणायाम"
+    },
+    "correct_answer": "A",
+    "explanation": "'प्र' उपसर्ग का अर्थ है आगे की ओर। प्रायोजित = 'प्र' + 'योजित' (जिसका आयोजन पहले से किया गया हो)[cite: 2566, 2568]."
+  },
+  {
+    "id": 157,
+    "question": "'अनेक' शब्द विशेषण के किस भेद का उदाहरण है ?",
+    "options": {
+      "A": "गुणवाचक",
+      "B": "संख्यावाचक",
+      "C": "परिमाणवाचक",
+      "D": "सार्वनामिक"
+    },
+    "correct_answer": "B",
+    "explanation": "संख्यावाचक विशेषण वे होते हैं जो संख्या बताते हैं। 'अनेक' अनिश्चित संख्यावाचक विशेषण है[cite: 2577, 2580]."
+  },
+  {
+    "id": 158,
+    "question": "वह तूलिका से चित्र बना रहा है। रेखांकित पद किस कारक का परसर्ग है ?",
+    "options": {
+      "A": "कर्म",
+      "B": "करण",
+      "C": "अपादान",
+      "D": "अधिकरण"
+    },
+    "correct_answer": "B",
+    "explanation": "करण कारक साधन को व्यक्त करता है। 'तूलिका से' का अर्थ है तूलिका के द्वारा, अतः यह करण कारक है[cite: 2587, 2590]."
+  },
+  {
+    "id": 159,
+    "question": "'कुशल' शब्द का भाववाचक संज्ञा रूप है 'कुशल'|",
+    "options": {
+      "A": "कौशल्या",
+      "B": "कौशल",
+      "C": "कोसल",
+      "D": "कुशाग्र"
+    },
+    "correct_answer": "B",
+    "explanation": "कुशल (विशेषण) की भाववाचक संज्ञा 'कौशल' (निपुणता) है[cite: 2599, 2602]."
+  },
+  {
+    "id": 160,
+    "question": "वह सो रहा था कि तभी अचानक उठ बैठा। रेखांकित पद क्रिया का भेद है",
+    "options": {
+      "A": "सहायक क्रिया",
+      "B": "प्रेरणार्थक क्रिया",
+      "C": "संयुक्त क्रिया",
+      "D": "मुख्या क्रिया"
+    },
+    "correct_answer": "C",
+    "explanation": "'उठ बैठा' में दो क्रियाओं का योग है जो एक संयुक्त भाव प्रकट कर रहा है, अतः यह संयुक्त क्रिया है[cite: 2609, 2612]."
+  },
+  {
+    "id": 161,
+    "question": "बाकी आप खुद काफी समझदार है। रेखांकित पद किस सर्वनाम का उदाहरण है",
+    "options": {
+      "A": "संबंधवाचक",
+      "B": "अनश्चियवाचक",
+      "C": "निश्चयवाचक",
+      "D": "निजवाचक"
+    },
+    "correct_answer": "D",
+    "explanation": "'खुद' निजवाचक सर्वनाम है जो स्वयं के लिए प्रयुक्त होता है[cite: 2618, 2621]."
+  },
+  {
+    "id": 162,
+    "question": "करकमल किस समास का उदाहरण है?",
+    "options": {
+      "A": "बहुव्रिही",
+      "B": "कर्मधारय",
+      "C": "तत्पुरूष",
+      "D": "अव्ययीभाव"
+    },
+    "correct_answer": "B",
+    "explanation": "करकमल = कमल के समान कर (हाथ)। इसमें उपमेय-उपमान संबंध है, अतः कर्मधारय समास है[cite: 2628, 2631]."
+  },
+  {
+    "id": 163,
+    "question": "Which of the following vitamins is also known as \"Riboflavin\"?",
+    "options": {
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B3",
+      "D": "Vitamin B5"
+    },
+    "correct_answer": "B",
+    "explanation": "Riboflavin is the scientific name for Vitamin B2. It plays a key role in energy production[cite: 2639, 2640]."
+  },
+  {
+    "id": 164,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": {
+      "A": "Hygrometer",
+      "B": "Thermometer",
+      "C": "Barometer",
+      "D": "Anemometer"
+    },
+    "correct_answer": "C",
+    "explanation": "A barometer measures atmospheric pressure and is used in meteorology[cite: 2647, 2648]."
+  },
+  {
+    "id": 165,
+    "question": "What is the common name of Sodium Bicarbonate?",
+    "options": {
+      "A": "Baking powder",
+      "B": "Bleaching powder",
+      "C": "Washing soda",
+      "D": "Baking soda"
+    },
+    "correct_answer": "D",
+    "explanation": "Sodium bicarbonate is commonly known as baking soda and is used as a leavening agent[cite: 2654, 2655]."
+  },
+  {
+    "id": 166,
+    "question": "Which of the following diseases is caused by a virus?",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Malaria",
+      "C": "Typhoid",
+      "D": "Measles"
+    },
+    "correct_answer": "D",
+    "explanation": "Measles is a contagious disease caused by the measles virus[cite: 2662, 2663]."
+  },
+  {
+    "id": 167,
+    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "options": {
+      "A": "Radio waves",
+      "B": "Infrared rays",
+      "C": "X-rays",
+      "D": "Gamma rays"
+    },
+    "correct_answer": "D",
+    "explanation": "Gamma rays have the shortest wavelength (and highest energy) in the electromagnetic spectrum, followed by X-rays, UV, etc.[cite: 2673, 2674]."
+  },
+  {
+    "id": 168,
+    "question": "Our country is committed ____ a policy of peaceful co-existence.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "to",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "'Committed' takes the fixed preposition 'to'. So 'committed to' is the correct usage[cite: 2687, 2688]."
+  },
+  {
+    "id": 169,
+    "question": "You must adapt yourself ____ your new surroundings.",
+    "options": {
+      "A": "towards",
+      "B": "to",
+      "C": "In",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "'Adapt' takes the preposition 'to'[cite: 2696, 2697]."
+  },
+  {
+    "id": 170,
+    "question": "Find the Error: He is good in mathematics but his friend isn't.",
+    "options": {
+      "A": "He is good",
+      "B": "in mathematics",
+      "C": "but his friend isn't",
+      "D": "No error"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct preposition is 'good at'. Usage should be 'good at mathematics'[cite: 2703, 2706]."
+  },
+  {
+    "id": 171,
+    "question": "Find the Error: He walked ten miles by foot",
+    "options": {
+      "A": "He walked",
+      "B": "ten miles",
+      "C": "by foot",
+      "D": "No error"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct phrase is 'on foot', not 'by foot'[cite: 2712]."
+  },
+  {
+    "id": 172,
+    "question": "She was in a brown study and not notice my entrance. (Meaning of idiom)",
+    "options": {
+      "A": "reverie",
+      "B": "fear",
+      "C": "sleep",
+      "D": "dream"
+    },
+    "correct_answer": "A",
+    "explanation": "The idiom 'in a brown study' means being in a state of deep thought or reverie[cite: 2720]."
+  },
+  {
+    "id": 173,
+    "question": "At Christmas, even the elderly fathers paint the town red. (Meaning of idiom)",
+    "options": {
+      "A": "indulge in rioting",
+      "B": "paint the house red",
+      "C": "spill red wire",
+      "D": "have a lively time"
+    },
+    "correct_answer": "D",
+    "explanation": "'Paint the town red' means to go out and enjoy oneself flamboyantly or have a lively time[cite: 2727]."
+  },
+  {
+    "id": 174,
+    "question": "Select the antonym of the word in capital letters: His CANDID remarks impressed the authorities.",
+    "options": {
+      "A": "Blunt",
+      "B": "Guarded",
+      "C": "Sincere",
+      "D": "Unconventional"
+    },
+    "correct_answer": "B",
+    "explanation": "Candid means frank and open. The antonym is 'Guarded' (cautious, not open)[cite: 2735, 2736]."
+  },
+  {
+    "id": 175,
+    "question": "Universities in Germany and Denmark will have an input ____ the project.",
+    "options": {
+      "A": "for",
+      "B": "into",
+      "C": "about",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "explanation": "The key says 'A' (for) is correct usage here. (Note: 'Input into' is also common, but 'input for' denotes contribution belonging to the project) [cite: 2746, 2747]."
+  },
+  {
+    "id": 176,
+    "question": "Which Article of the Constitution prohibits traffic in human beings and forced labour?",
+    "options": {
+      "A": "Article 19",
+      "B": "Article 21",
+      "C": "Article 23",
+      "D": "Article 28"
+    },
+    "correct_answer": "C",
+    "explanation": "Article 23 prohibits traffic in human beings and forced labour (begar)[cite: 2755, 2756]."
+  },
+  {
+    "id": 177,
+    "question": "Bhavai is a traditional dance form of",
+    "options": {
+      "A": "Gujarat",
+      "B": "Bihar",
+      "C": "Punjab",
+      "D": "Maharashtra"
+    },
+    "correct_answer": "A",
+    "explanation": "Bhavai is a folk dance genre popular in Rajasthan and Gujarat[cite: 2762, 2765]."
+  },
+  {
+    "id": 178,
+    "question": "\"Unbreakable\" is an autobiography of?",
+    "options": {
+      "A": "Mary kom",
+      "B": "Saniya Mirza",
+      "C": "Wasim Akram",
+      "D": "Chris Gayle"
+    },
+    "correct_answer": "A",
+    "explanation": "'Unbreakable' is the autobiography of boxer Mary Kom[cite: 2773, 2774]."
+  },
+  {
+    "id": 179,
+    "question": "Which article in the Constitution of India empowers the President of India to promulgate ordinances when the Parliament is in recess?",
+    "options": {
+      "A": "Article 232",
+      "B": "Article 312",
+      "C": "Article 123",
+      "D": "Article 213"
+    },
+    "correct_answer": "C",
+    "explanation": "Article 123 empowers the President to promulgate ordinances when Parliament is not in session[cite: 2781, 2782]."
+  },
+  {
+    "id": 180,
+    "question": "Which amendment of the Constitution is called as the 'mini constitution of India' and was brought in during the national emergency in the year 1976?",
+    "options": {
+      "A": "54th",
+      "B": "25th",
+      "C": "24th",
+      "D": "42nd"
+    },
+    "correct_answer": "D",
+    "explanation": "The 42nd Amendment Act (1976) is known as the 'Mini Constitution' due to its extensive changes[cite: 2788, 2789]."
+  },
+  {
+    "id": 181,
+    "question": "Who was the greatest of the Chalukya rulers?",
+    "options": {
+      "A": "Pulakeshin-I",
+      "B": "Pulakeshin-II",
+      "C": "Kirtivarman",
+      "D": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Pulakeshin II is considered the greatest Chalukya ruler, known for defeating Harshavardhana[cite: 2796, 2798]."
+  },
+  {
+    "id": 182,
+    "question": "The title of 'Sikandar-i-Sani' was adopted by",
+    "options": {
+      "A": "Jalaluddin Khalji",
+      "B": "Alauddin Khalji",
+      "C": "Firoz Shah Tughlaq",
+      "D": "Muhammad-bin-Tughlaq"
+    },
+    "correct_answer": "B",
+    "explanation": "Alauddin Khalji adopted the title 'Sikandar-i-Sani' (Alexander the Second)[cite: 2807, 2808]."
+  },
+  {
+    "id": 183,
+    "question": "The most earthquake prone area in India is",
+    "options": {
+      "A": "Kashmir valley",
+      "B": "Himalayan region and its foothills",
+      "C": "Coromandel Coast region",
+      "D": "All of these"
+    },
+    "correct_answer": "B",
+    "explanation": "The Himalayan region is highly seismic due to tectonic plate collisions[cite: 2814, 2815]."
+  },
+  {
+    "id": 184,
+    "question": "Caribbean oceanic current belongs to",
+    "options": {
+      "A": "Indian ocean",
+      "B": "Atlantic ocean",
+      "C": "Pacific ocean",
+      "D": "Arctic ocean"
+    },
+    "correct_answer": "B",
+    "explanation": "The Caribbean current is part of the Atlantic Ocean circulation[cite: 2823, 2824]."
+  },
+  {
+    "id": 185,
+    "question": "Which of the following was an important port of the eastern coast during the Gupta period?",
+    "options": {
+      "A": "Broach",
+      "B": "Kalyan",
+      "C": "Tamralipti",
+      "D": "Sopara"
+    },
+    "correct_answer": "C",
+    "explanation": "Tamralipti was a significant port on the eastern coast (Bengal) during the Gupta period[cite: 2831, 2832]."
+  },
+  {
+    "id": 186,
+    "question": "The Arab conquest of Sindh took place in",
+    "options": {
+      "A": "712 A.D.",
+      "B": "740 A.D.",
+      "C": "1001 A.D.",
+      "D": "1009 A.D."
+    },
+    "correct_answer": "A",
+    "explanation": "The Arab conquest of Sindh by Muhammad bin Qasim occurred in 712 A.D.[cite: 2840, 2841]."
+  },
+  {
+    "id": 187,
+    "question": "Sakas were finally overthrown by",
+    "options": {
+      "A": "Kanishka",
+      "B": "Chandragupta Vikramaditya",
+      "C": "Devapala",
+      "D": "Gautamiputra Satakarni"
+    },
+    "correct_answer": "D",
+    "explanation": "Gautamiputra Satakarni (Satavahana ruler) defeated the Saka ruler Nahapana[cite: 2848, 2851]."
+  },
+  {
+    "id": 188,
+    "question": "The 'Juma' tribe is found in",
+    "options": {
+      "A": "Amazon Basin",
+      "B": "Congo basin",
+      "C": "China",
+      "D": "Kenya"
+    },
+    "correct_answer": "A",
+    "explanation": "The Juma are an indigenous tribe found in the Amazon basin (Brazil)[cite: 2858, 2859]."
+  },
+  {
+    "id": 189,
+    "question": "Where is Mount Dukono located?",
+    "options": {
+      "A": "Java, Indonesia",
+      "B": "Bali, Indonesia",
+      "C": "Halmahera Island, North Maluku, Indonesia",
+      "D": "Sumatra, Indonesia"
+    },
+    "correct_answer": "C",
+    "explanation": "Mount Dukono is an active volcano located on Halmahera Island, Indonesia[cite: 2866, 2867]."
+  },
+  {
+    "id": 190,
+    "question": "Bangus Valley is situated in which district of Jammu and Kashmir?",
+    "options": {
+      "A": "Baramulla",
+      "B": "Kupwara",
+      "C": "Anantnag",
+      "D": "Kulgam"
+    },
+    "correct_answer": "B",
+    "explanation": "Bangus Valley is located in the Kupwara district of Jammu and Kashmir[cite: 2875, 2876]."
+  },
+  {
+    "id": 191,
+    "question": "Srihari L R recently became India's ___ Grandmaster in chess.",
+    "options": {
+      "A": "75th",
+      "B": "80th",
+      "C": "86th",
+      "D": "90th"
+    },
+    "correct_answer": "C",
+    "explanation": "Srihari LR became the 86th Grandmaster of India[cite: 2884, 2887]."
+  },
+  {
+    "id": 192,
+    "question": "What is the theme for International Thalassaemia Day 2025?",
+    "options": {
+      "A": "\"Strengthening Global Health Systems\"",
+      "B": "\"Together for Thalassaemia: Uniting Communities, Prioritising Patients\"",
+      "C": "\"Innovate to Cure\"",
+      "D": "\"Empowering Lives Through Awareness\""
+    },
+    "correct_answer": "B",
+    "explanation": "The theme for 2025 is 'Together for Thalassemia: Uniting Communities, Prioritizing Patients'[cite: 2893, 2895]."
+  },
+  {
+    "id": 193,
+    "question": "Who were the co-recipients of the 2024 A.M. Turing Award?",
+    "options": {
+      "A": "Geoffrey Hinton and Yann LeCun",
+      "B": "Andrew Barto and Richard Sutton",
+      "C": "John McCarthy and Donald Knuth",
+      "D": "Alan Turing and Claude Shannon"
+    },
+    "correct_answer": "B",
+    "explanation": "Andrew G. Barto and Richard S. Sutton were named recipients for their work on reinforcement learning[cite: 2902, 2904]."
+  },
+  {
+    "id": 194,
+    "question": "Which Indian state has launched 'Project Hifazat' for women's safety?",
+    "options": {
+      "A": "Punjab",
+      "B": "Bihar",
+      "C": "Haryana",
+      "D": "Madhya Pradesh"
+    },
+    "correct_answer": "A",
+    "explanation": "The Punjab government launched 'Project Hifazat' to assist victims of violence[cite: 2911, 2912]."
+  },
+  {
+    "id": 195,
+    "question": "What is the theme of World Wildlife Day 2025?",
+    "options": {
+      "A": "\"Sustaining Ecosystems for Future Generations\"",
+      "B": "\"Wildlife Conservation Finance: Investing in People and Planet\"",
+      "C": "\"Protecting Endangered Species for a Better Tomorrow\"",
+      "D": "\"Global Biodiversity and Climate Action\""
+    },
+    "correct_answer": "B",
+    "explanation": "The theme for 2025 is 'Wildlife Conservation Finance: Investing in People and Planet'[cite: 2920, 2922]."
+  },
+  {
+    "id": 196,
+    "question": "The theme for International Epilepsy Day 2025 is:",
+    "options": {
+      "A": "\"Epilepsy for All\"",
+      "B": "\"Epilepsy: A Global Concern\"",
+      "C": "\"My Epilepsy Journey\"",
+      "D": "\"Living with Epilepsy\""
+    },
+    "correct_answer": "C",
+    "explanation": "The theme for International Epilepsy Day 2025 is 'My Epilepsy Journey'[cite: 2930, 2932]."
+  },
+  {
+    "id": 197,
+    "question": "World Theatre Day 2025 was celebrated from March 27-30 in which city?",
+    "options": {
+      "A": "Paris",
+      "B": "New York",
+      "C": "Rio de Janeiro",
+      "D": "Tokyo"
+    },
+    "correct_answer": "C",
+    "explanation": "World Theatre Day 2025 celebrations took place in Rio de Janeiro, Brazil[cite: 2940, 2943]."
+  },
+  {
+    "id": 198,
+    "question": "When is the International Day of Happiness celebrated annually?",
+    "options": {
+      "A": "March 10",
+      "B": "March 15",
+      "C": "March 20",
+      "D": "March 25"
+    },
+    "correct_answer": "C",
+    "explanation": "International Day of Happiness is celebrated on March 20[cite: 2952, 2953]."
+  },
+  {
+    "id": 199,
+    "question": "Who has been appointed as India's first woman Law Secretary?",
+    "options": {
+      "A": "Leena Nair",
+      "B": "Anju Rathi Rana",
+      "C": "Indu Malhotra",
+      "D": "Fathima Beevi"
+    },
+    "correct_answer": "B",
+    "explanation": "Dr. Anju Rathi Rana was appointed as the Union Law Secretary in March 2025[cite: 2960, 2961]."
+  },
+  {
+    "id": 200,
+    "question": "Where was India's first World Peace Center inaugurated?",
+    "options": {
+      "A": "New Delhi",
+      "B": "Gurugram, Haryana",
+      "C": "Pune, Maharashtra",
+      "D": "Ahmedabad, Gujarat"
+    },
+    "correct_answer": "B",
+    "explanation": "India's first World Peace Center was inaugurated in Gurugram, Haryana[cite: 2968, 2969]."
+  }
+]
