@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
 body{margin:0;min-height:100vh;display:flex;justify-content:center;align-items:center;background:linear-gradient(135deg,#6f7bd9,#8b5cf6)}
 .app{background:#fff;width:100%;max-width:760px;border-radius:18px;padding:20px 22px;box-shadow:0 15px 40px rgba(0,0,0,.25)}
 h1{text-align:center;margin:0 0 16px}
-.hidden{display:none}
+.hidden{display:none!important}
 .row{display:flex;gap:10px;flex-wrap:wrap}
 .card{border:1px solid #e5e7eb;border-radius:14px;padding:16px;margin-top:14px}
 .btn{background:#6366f1;color:#fff;border:none;padding:12px 16px;border-radius:12px;font-size:16px;cursor:pointer;width:100%;margin-top:12px}
@@ -51,6 +52,18 @@ input,select{padding:10px;border-radius:10px;border:1px solid #d1d5db;width:100%
 .timer{font-weight:700;color:#4f46e5}
 .explanation{margin-top:8px;font-size:14px;color:#374151}
 .small{font-size:14px;color:#6b7280}
+
+/* TOGGLE SWITCH */
+.toggle-wrapper{display:flex;align-items:center;gap:10px;cursor:pointer;margin-top:12px}
+.toggle-input{display:none}
+.toggle-switch{
+  position:relative;width:44px;height:24px;background:#d1d5db;border-radius:24px;transition:.3s
+}
+.toggle-switch::after{
+  content:'';position:absolute;top:2px;left:2px;width:20px;height:20px;background:#fff;border-radius:50%;transition:.3s;box-shadow:0 2px 4px rgba(0,0,0,.2)
+}
+.toggle-input:checked + .toggle-switch{background:#4f46e5}
+.toggle-input:checked + .toggle-switch::after{transform:translateX(20px)}
 </style>
 </head>
 <body>
@@ -71,6 +84,24 @@ input,select{padding:10px;border-radius:10px;border:1px solid #d1d5db;width:100%
       <div>
         <label>Test Duration in Minutes (optional)</label>
         <input type="number" id="minutes" placeholder="Leave empty = no time limit" />
+      </div>
+    </div>
+
+    <div>
+      <label class="toggle-wrapper">
+        <input type="checkbox" id="markingToggle" class="toggle-input" />
+        <div class="toggle-switch"></div>
+        <span>Include marking</span>
+      </label>
+    </div>
+    <div id="markingConfig" class="row hidden" style="margin-top:10px">
+      <div>
+        <label>Positive Marks</label>
+        <input type="number" id="posMark" value="1" step="0.1" />
+      </div>
+      <div>
+        <label>Negative Marks (optional)</label>
+        <input type="number" id="negMark" value="0" step="0.1" />
       </div>
     </div>
 
@@ -112,24 +143,36 @@ input,select{padding:10px;border-radius:10px;border:1px solid #d1d5db;width:100%
 <script>
 const LS_KEY = 'mock_test_personal_v1';
 
-let allQ=[],quizQ=[],index=0,answers={},timerInt=null,seconds=0,showMode='report';
+let allQ=[],quizQ=[],index=0,answers={},timerInt=null,seconds=0,showMode='report',markingEnabled=false,posMark=1,negMark=0;
 
 // ---------- RESUME CHECK ----------
 window.addEventListener('load',()=>{
   const saved=localStorage.getItem(LS_KEY);
   if(saved){
     if(confirm('Resume previous test?')){
-      Object.assign({allQ,quizQ,index,answers,seconds,showMode},JSON.parse(saved));
+      const data = JSON.parse(saved);
+      allQ = data.allQ;
+      quizQ = data.quizQ;
+      index = data.index;
+      answers = data.answers;
+      seconds = data.seconds;
+      showMode = data.showMode;
+      markingEnabled = data.markingEnabled;
+      posMark = data.posMark;
+      negMark = data.negMark;
       document.getElementById('setup').classList.add('hidden');
       document.getElementById('quiz').classList.remove('hidden');
       if(seconds>0) startTimer();
       renderQ();
     } else localStorage.removeItem(LS_KEY);
   }
+
+  // Sync marking toggle visibility on load
+  if(document.getElementById('markingToggle').checked) document.getElementById('markingConfig').classList.remove('hidden');
 });
 
 function saveState(){
-  localStorage.setItem(LS_KEY,JSON.stringify({allQ,quizQ,index,answers,seconds,showMode}));
+  localStorage.setItem(LS_KEY,JSON.stringify({allQ,quizQ,index,answers,seconds,showMode,markingEnabled,posMark,negMark}));
 }
 
 function startTest(){
@@ -139,6 +182,9 @@ function startTest(){
   showMode=document.getElementById('showMode').value;
   let qLimit=parseInt(document.getElementById('qCount').value);
   let mins=parseInt(document.getElementById('minutes').value);
+  markingEnabled = document.getElementById('markingToggle').checked;
+  posMark = parseFloat(document.getElementById('posMark').value) || 1;
+  negMark = parseFloat(document.getElementById('negMark').value) || 0;
 
   allQ=[];quizQ=[];answers={};index=0;
 
@@ -224,7 +270,16 @@ function endTest(){
   let attempted=Object.keys(answers).length,correct=0;
   quizQ.forEach((q,i)=>{if(answers[i]===q.correct_answer) correct++;});
 
-  let html=`<h2>Report</h2><div class='small'>Total: ${quizQ.length} | Attempted: ${attempted} | Correct: ${correct}</div>`;
+  let scoreInfo = '';
+  if(markingEnabled){
+    let wrong = attempted - correct;
+    let score = (correct * posMark) - (wrong * negMark);
+    // Round to 2 decimals to avoid floating point issues
+    score = Math.round(score * 100) / 100;
+    scoreInfo = ` | <b>Score: ${score}</b>`;
+  }
+
+  let html=`<h2>Report</h2><div class='small'>Total: ${quizQ.length} | Attempted: ${attempted} | Correct: ${correct}${scoreInfo}</div>`;
 
   quizQ.forEach((q,i)=>{
     let sel=answers[i],opts='';
@@ -245,6 +300,11 @@ document.getElementById('startBtn').onclick=startTest;
 document.getElementById('endBtn').onclick=endTest;
 document.getElementById('nextBtn').onclick=nextQ;
 document.getElementById('backBtn').onclick=()=>location.reload();
+document.getElementById('markingToggle').onchange=(e)=>{
+  const el=document.getElementById('markingConfig');
+  if(e.target.checked) el.classList.remove('hidden');
+  else el.classList.add('hidden');
+};
 </script>
 </body>
 </html>
