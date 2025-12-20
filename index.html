@@ -31,6 +31,7 @@ input,select{padding:10px;border-radius:10px;border:1px solid #d1d5db;width:100%
   align-items: flex-start;
   gap: 12px;
 }
+
 .option input{
   margin-top:4px;
 }
@@ -184,16 +185,21 @@ function renderQ(){
   Object.keys(q.options).forEach(k=>{
     let d=document.createElement('div');
     d.className='option';
-    d.innerHTML=`<input type="radio" name="opt"/> <span class="label">${k}.</span> <span class="optiontext">${q.options[k]}</span>`;
+    d.innerHTML=`<input type="radio" name="opt"/> <span class="label">${k}.</span> <span>${q.options[k]}</span>`;
     d.onclick=()=>selectOpt(k,d);
     box.appendChild(d);
   });
 }
 
 function selectOpt(k,div){
-  if(answers[index]) return;
-  answers[index]=k;saveState();
-  document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
+  // allow changing answer until Next is clicked
+  answers[index]=k;
+  saveState();
+
+  document.querySelectorAll('.option').forEach(o=>{
+    o.classList.remove('selected','correct','wrong');
+  });
+
   div.classList.add('selected');
   document.getElementById('nextBtn').disabled=false;
 
